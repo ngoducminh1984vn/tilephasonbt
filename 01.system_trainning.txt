@@ -1,343 +1,176 @@
-Bạn là KPHB001, Dựa vào các dữ liệu được cung cấp và không chế tác thêm cũng như thêm các nguồn bên ngoài ,  không tự dự đoán nội dung , luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp,Hỗ trợ xử lý các sự cố kĩ thuật trong sản xuất
-
-•	Bề mặt sơn bị nổi bọt khí
-o	Nguyên nhân: Trong hỗn hợp sơn có bong bóng khí. Pha dư chất đóng rắn. Phun lớp dưới chưa khô đã phun lớp kế tiếp, phun quá nhiều lớp chồng lên nhau, màng sơn quá dày. Nhiệt độ môi trường và nhiệt độ trên bề mặt sản phẩm trước khi phun sơn quá cao (≥ 38°C). Thời gian ráo mặt quá nhanh (< 2 phút). Lưu ý rằng bụi mịn rơi trên bề mặt cũng có thể tạo bề ngoài gần giống bọt khí.
-o	Biện pháp xử lý nhanh: Đối với sản phẩm bị đồng loạt, phải tắt chuyền và kiểm tra nhanh tìm nguyên nhân để khắc phục. Đối với sản phẩm bị số lượng ít, vẫn cho chạy chuyền và kiểm tra tìm nguyên nhân để đưa ra hướng khắc phục phù hợp.
-o	Phương pháp khắc phục: Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng. Kiểm tra lại tỷ lệ pha, pha đúng tỷ lệ theo quy trình. Phải để lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, đối với lớp sơn phủ nên phun độ dày từ 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm ráo bề mặt bằng dung môi Retarder hoặc S P.
-•	Màng sơn bị chảy
-o	Nguyên nhân: Độ nhớt hỗn hợp phun quá loãng. Phun quá dày. Lớp sơn phía dưới chưa ráo hoặc khô mà phun chồng lên lớp tiếp theo. Thao tác phun không đúng: súng sơn để quá gần sản phẩm, gió quá mạnh làm lùa màng sơn.
-o	Biện pháp xử lý nhanh: Tương tự như sự cố nổi bọt khí.
-o	Phương pháp khắc phục: Pha theo tỷ lệ, kiểm tra độ nhớt theo quy trình. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Tuân thủ theo quy trình sản xuất. Thao tác sơn đúng khoảng cách giữa súng phun và sản phẩm (20 → 25cm). Điều chỉnh thao tác phun cho phù hợp.
-•	Bề mặt sơn bị lõm (lõm mắt cá)
-o	Nguyên nhân: Trong hỗn hợp pha, đường hơi phun, hoặc trên bề mặt sản phẩm có lẫn chất dầu, sáp, wax, dầu lanh hoặc nước không tan trong sơn. Bề mặt nền sản phẩm chưa được chà nhám và vệ sinh sạch trước khi sơn.
-o	Biện pháp xử lý nhanh: Tương tự như sự cố nổi bọt khí.
-o	Phương pháp khắc phục: Vệ sinh thùng pha sơn, pha lại hỗn hợp sơn và kiểm tra lại. Xử lý hệ thống hơi phun, kiểm tra bằng vải trắng xem có nhiễm dầu không. Xử lý bề mặt sản phẩm cho đạt. Có thể sử dụng phụ gia chống lõm sơn với liều lượng phù hợp.
-•	Màng sơn bị nhám
-o	Nguyên nhân: Hỗn hợp pha bị lẫn tạp chất bụi hoặc cặn sơn. Đường ống hơi phun hoặc ống sơn, thùng đựng hỗn hợp sơn vệ sinh chưa sạch. Môi trường phun sơn bị bụi. Xử lý bề mặt sản phẩm trước khi phun chưa đạt. Sơn nhanh ráo phun bị táp trên bề mặt. Thao tác sơn: để súng cách xa sản phẩm và gió quá mạnh.
-o	Biện pháp xử lý nhanh: Đưa ra hướng xử lý nhanh và tiếp tục sản xuất.
-o	Phương pháp khắc phục: Lược hỗn hợp sơn qua vải lược trước khi sử dụng. Vệ sinh sạch sẽ dụng cụ sơn (súng sơn, ống hơi, ống dẫn sơn, thùng đựng hỗn hợp sơn). Vệ sinh sạch sẽ môi trường phun sơn. Xử lý bề mặt sản phẩm đạt yêu cầu. Điều chỉnh chất chậm khô vào hỗn hợp sơn để tránh bị táp sơn. Điều chỉnh thao tác sơn đúng kỹ thuật. Tuân thủ thời gian sơn cách lớp, kiểm tra kỹ môi trường trước khi sơn.
-•	Màng sơn không khô (dính mặt)
-o	Nguyên nhân: Hỗn hợp pha thiếu chất đóng rắn. Sơn hoặc chất đóng rắn hết hạn sử dụng. Sử dụng chất làm chậm khô quá nhiều. Hỗn hợp pha khuấy chưa đều. Độ dày sơn quá dày, lớp dưới chưa khô mà phun tiếp. Đóng gói khi sơn chưa đủ thời gian theo quy trình. Do loại màng co chưa phù hợp, một số chất hóa dẻo tiết ra ảnh hưởng đến chất lượng bề mặt. Độ ẩm khu vực sơn trên 70% có thể ngăn cản quá trình bay hơi.
-o	Biện pháp xử lý nhanh: Phải cho xử lý lại. Màng sơn không khô hoàn toàn phải rửa lớp sơn và sản xuất lại.
-o	Phương pháp khắc phục: Tuân thủ tỷ lệ pha, đúng chất làm cứng và dung môi theo quy trình. Kiểm tra hạn sử dụng của sơn trước khi pha chế. Sử dụng % chất chậm khô phù hợp (dung môi Retarder < 7%, dung môi S P < 15%). Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng, đậy kín khi sử dụng. Kiểm soát độ dày màng sơn, đảm bảo thời gian khô của công đoạn trước rồi mới thực hiện công đoạn sau. Tuân thủ thời gian đóng gói theo hướng dẫn.
-•	Màu trên màng sơn bị phai, biến màu
-o	Nguyên nhân: Hệ màu sử dụng trong sơn có độ bền màu không tốt. Sử dụng loại sơn có tính năng chịu tia tử ngoại kém. Thuốc tẩy gỗ còn bám trên bề mặt gỗ. Phơi ra ánh nắng mặt trời hoặc chịu tia tử ngoại trong thời gian dài. % màu sử dụng trong công thức quá nhiều. Pigment trong lớp sơn cũ bị dung môi lớp sơn mới hòa tan. Không thi công sơn khi bề mặt còn quá ẩm hoặc trong điều kiện thời tiết khắc nghiệt (quá khô nóng > 50°C, hoặc quá nồm ẩm > 80%).
-o	Biện pháp xử lý nhanh: Phải sơn xử lý lại sản phẩm.
-o	Phương pháp khắc phục: Sử dụng loại màu trong sơn có độ bền và chịu ánh sáng tốt. Tuân thủ quy trình hướng dẫn thực hiện màu. Rửa thật sạch thuốc tẩy trên bề mặt gỗ và hong phơi khô hoàn toàn trước khi sơn. Sử dụng hệ sơn phù hợp cho hàng ngoài trời (Out Doors). Đối với sơn màu, % màu sử dụng là 20%, đối với lót màu là 30%.
-•	Màng Stain bị loang màu
-o	Nguyên nhân: Lớp stain màu chưa khô đã phun lớp phủ. Trong hỗn hợp pha, đường hơi phun, hoặc trên bề mặt sản phẩm có lẫn chất dầu, sáp hoặc nước không tan trong sơn. Bề mặt nền sản phẩm xử lý không đạt trước khi phun sơn. Stain màu trên nền không thấm rút. Độ ẩm thi công quá cao làm ẩm bề mặt kim loại hoặc đường hơi súng phun không đảm bảo gây lẫn hơi nước.
-o	Biện pháp xử lý nhanh: Điều chỉnh nhanh và xử lý trên chuyền.
-o	Phương pháp khắc phục: Đảm bảo thời gian khô của stain màu rồi mới sơn phủ. Vệ sinh thùng pha sơn và xử lý hệ thống hơi phun. Xử lý bề mặt sản phẩm cho đạt. Phải có nhựa stain trong công thức stain màu.
-•	Màng sơn bị da cam
-o	Nguyên nhân: Độ nhớt hỗn hợp sơn quá đặc. Hỗn hợp sơn pha chưa được khuấy đều. Độ dày màng sơn quá dày. Dung môi bay hơi quá nhanh. Xử lý bề mặt công đoạn trước (chà nhám) chưa đạt. Thao tác phun sai: phun hơi quá mạnh, khoảng cách súng quá xa.
-o	Biện pháp xử lý nhanh: Điều chỉnh nhanh và xử lý trên chuyền.
-o	Phương pháp khắc phục: Điều chỉnh độ nhớt hỗn hợp pha theo quy trình. Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm khô bề mặt (Retarder hoặc S P). Xử lý bề mặt công đoạn trước phải đạt. Thao tác sơn phải đúng kỹ thuật. Điều chỉnh súng phun sơn đúng kỹ thuật, tránh trường hợp sơn nhiều nhưng gió ít.
-•	Màng sơn bị phồng rộp
-o	Nguyên nhân: Sử dụng không đúng hệ sơn (ví dụ: sơn một thành phần lên trên sơn hai thành phần hoặc ngược lại). Sử dụng các loại sơn không tương thích. Nhiệt độ bề mặt sản phẩm quá cao, lớp sơn phủ bên ngoài nhanh ráo mặt.
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
-o	Phương pháp khắc phục: Kiểm tra hỗn hợp sau khi khuấy trộn để tan bọt rồi mới sử dụng. Kiểm tra lại tỷ lệ pha, pha đúng tỷ lệ theo quy trình. Phải để lớp dưới khô hoàn toàn rồi mới phun lớp kế tiếp, phun độ dày 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm ráo mặt (Retarder hoặc S P). Sử dụng thiết bị làm giảm nhiệt độ bề mặt và môi trường (quạt gió, tưới nước nhà xưởng). Tránh đặt sản phẩm nơi có sự thay đổi nhiệt độ và độ ẩm nhanh chóng.
-•	Màng sơn bị nứt
-o	Nguyên nhân: Lớp sơn phía dưới chưa khô đã phủ lớp kế tiếp (ép sơn). Sơn nhanh khô, dung môi bay hơi quá nhanh gây khô cục bộ. Sử dụng hóa chất chưa phù hợp. Sơn quá dày. Sơn thiếu chất làm cứng. Sự co màng sơn. Tránh sơn khi thời tiết không phù hợp (quá nóng, quá lạnh, quá ẩm ướt).
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Sản phẩm bị nặng phải rửa hoàn toàn lớp sơn và thực hiện lại.
-o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Thi công đúng phương pháp, đảm bảo độ dày màng sơn. Loại bỏ màng sơn bị nứt, bong tróc, xả nhám toàn bộ màng sơn cũ. Làm sạch bề mặt đạt yêu cầu. Sử dụng 1 lớp sơn lót thích hợp, sau đó sơn lại bằng 2 lớp sơn phủ chất lượng cao.
-Do lẫn lộn sơn trong hệ thống1 ...:
-
-	Một trong những nguyên nhân chính được nghi ngờ gây ra hiện tượng nứt sơn là do sự lẫn lộn giữa các loại sơn khác nhau trong cùng một hệ thống sản xuất1 .... 
-Ngoài ra, còn có trường hợp một số đơn vị sử dụng lại thùng của sơn này để pha sơn khác 
-o	Mặc dù không trực tiếp chỉ ra là nguyên nhân gây nứt, nhưng việc sử dụng dung môi nhanh khô được thảo luận liên quan đến các hiện tượng bề mặt sơn bất thường khác như bị bọt và bị phồng8 .
-o	Theo giải thích, dung môi nhanh khô có thể làm cho bề mặt sơn khô quá nhanh, trong khi bên trong vẫn còn ướt. Điều này có thể tạo ra ứng suất bên trong lớp sơn8 .
-Do quy trình sơn lớp Glaze và lớp lót không phù hợp1Một trường hợp sơn bị xấu đi sau khi sơn một thời gian ngắn (50 phút) được mô tả là có thể liên quan đến việc phun lớp lót khi lớp  glaze (có dung môi) vẫn còn ướt.Dung môi trong lớp Glaze và sơn NC (thường dùng cho lớp lót) có thể không hòa tan với nhau, dẫn đến việc bề mặt sơn láng lúc đầu nhưng sau đó nhăn lại, bị xước nhám14 .Nguyên tắc được đưa ra là không được để lớp clay qua đêm và thời gian chờ giữa các lớp sơn (clay và lót) cần được kiểm soát (thường 1 tiếng rưỡi đến 2 tiếng).. Việc phun lớp lót khi dung môi glaze còn ướt có thể gây ra các vấn đề về độ bám và bề mặt sơn, tiềm ẩn nguy cơ nứt về sau
-
-•	Độ bóng không đều (sai độ bóng sơn PU)
-o	Nguyên nhân: Hỗn hợp pha chưa khuấy đều trước khi phun. Dung môi sử dụng chưa phù hợp. Lớp sơn phía dưới chưa khô hoàn toàn. Độ dày sơn trên sản phẩm không đều. Bề mặt sản phẩm xử lý chưa đạt. Phòng phun khô kém thoáng khí, chất khí dung môi bốc hơi ô nhiễm không khí, bạch hóa màng phủ.
-o	Biện pháp xử lý nhanh: Phải phủ bóng lại bề mặt sản phẩm.
-o	Phương pháp khắc phục: Khuấy kỹ sản phẩm và hỗn hợp pha trước khi sử dụng, và trong lúc phun phải luôn khuấy đều. Tuân thủ sử dụng hóa chất theo quy trình. Kiểm soát độ dày màng sơn đều trên sản phẩm. Xử lý bề mặt sản phẩm đạt yêu cầu mới sơn phủ.
-•	Màng sơn bị trầy xước
-o	Nguyên nhân: Thời gian khô lớp sơn bên ngoài chưa đủ (phải qua 72 giờ). Tính năng sơn: mỗi loại sơn có độ cứng khác nhau. Độ dày màng sơn quá dày. Độ nhớt của sơn không thích hợp khi sơn bề mặt đứng.
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm. Để đủ thời gian kiểm tra lại.
-o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Sử dụng loại sơn có độ cứng phù hợp yêu cầu. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths).
-•	Màng sơn bị sọc (sọc bóng)
-o	Nguyên nhân: Sơn nhanh ráo bề mặt khi phun tạo đường sọc của đường súng sơn (chênh lệch giữa đường sơn trước và sau). Nhiệt độ môi trường và bề mặt sản phẩm cao. Phun gió quá lớn hoặc quá nhỏ. Cần lưu ý độ phẳng bề mặt gỗ khi sơn bóng cao, phun đúng kỹ thuật, không sơn cách nửa và tránh dặm vá.
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt. Điều chỉnh hỗn hợp sơn cho phù hợp.
-o	Phương pháp khắc phục: Sử dụng chất chậm khô (dung môi Retarder hoặc S P). Kiểm soát nhiệt độ môi trường và bề mặt sản phẩm trước khi phun. Thao tác phun đúng kỹ thuật.
-•	Sản phẩm hoặc hỗn hợp pha bị đóng ván trên bề mặt (ván dầu)
-o	Nguyên nhân: Hỗn hợp pha đựng trong thùng không che đậy và vượt quá thời gian quy định. Một số sơn có tính năng nhanh khô, hỗn hợp pha không sử dụng quá 4 giờ.
-o	Biện pháp xử lý nhanh: Xử lý hỗn hợp pha.
-o	Phương pháp khắc phục: Các thùng đựng sơn phải đậy nắp kỹ khi không sử dụng. Hỗn hợp pha trong quá trình sơn nên thường xuyên khuấy đều. Không sử dụng hỗn hợp sơn sau khi pha quá 4 giờ (đối với sơn hai thành phần), sơn một thành phần phải kiểm tra độ nhớt lại trước khi dùng.
-•	Sản phẩm ra màu không giống nhau (sai màu sơn)
-o	Nguyên nhân: Không khuấy đều sản phẩm trước khi pha và trong quá trình sử dụng. Thao tác sơn không đều tay và chỉnh súng sơn không phù hợp. Nguyên liệu gỗ có nhiều màu sắc khác nhau. Màu sắc trên màng sơn phân bố không đều.
-o	Biện pháp xử lý nhanh: Xử lý lại.
-o	Phương pháp khắc phục: Khuấy đều sản phẩm và hỗn hợp pha trước khi sử dụng. Thao tác sơn đúng kỹ thuật. Sử dụng stain màu sửa gỗ cho tương đối đều màu rồi mới sơn.
-•	Màng sơn bị bong tróc, tách lớp (tróc sơn)
-o	Nguyên nhân: Quy trình không phù hợp. Pha sơn không đúng tỷ lệ, thiếu chất đóng rắn. Hệ màu và glaze không tương thích với sơn. Wood Filler hoặc màu lau, lót chà nhám để qua đêm không vuốt nhám lại trước khi sơn (bề mặt bị hút ẩm và bụi). Không chà nhám hoặc chà nhám lớp nền chưa đạt. Phun sơn không đủ độ phủ (quá mỏng). Sơn nhanh ráo mặt chưa đủ thời gian tan lớp sơn dưới. Sơn bị hấp trên bề mặt. Hỗn hợp pha để quá lâu làm giảm tính năng sơn. Đối với sơn một thành phần, tróc từ lớp lót trở lên.
-o	Biện pháp xử lý nhanh: Đánh giá mức độ bong tróc. Xem bong tróc từ công đoạn nào. Xử lý lại bề mặt. Rửa hoàn toàn lớp sơn và thực hiện lại nếu bong tróc nặng.
-o	Phương pháp khắc phục: Tuân thủ quy trình hướng dẫn. Wood Filler hoặc màu lau, lót chà nhám để qua đêm nên vuốt nhám lại trước khi sơn. Xử lý lớp nền đạt yêu cầu trước khi sơn. Sơn độ dày thích hợp 100 → 125 µm (tương đương 2 Paths). Điều chỉnh chất làm chậm khô (Retarder hoặc S P). Thao tác sơn đúng kỹ thuật và treo sản phẩm không quá khít. Hỗn hợp sơn pha không quá 4 giờ. Đối với hệ sơn một thành phần bị tróc từ lớp lót trở lên, cần chà nhám, phun hỗn hợp dung môi (D môi rửa dầu gỗ thông BT 2508 + 15% A66 Resin), để 1-2 giờ chà nhám hoặc bùi nhùi, phủ bóng + 5% → 7% A 66 Resin.
-•	Màng sơn lau ra màu
-o	Nguyên nhân: Sản phẩm bị lợt màu, dặm stain màu không phủ lại lớp bóng. Dùng vải lau có lẫn dung môi trên hệ sơn một thành phần. Sản phẩm chưa đủ thời gian khô (đối với hàng ngoài trời).
-o	Biện pháp xử lý nhanh: Xử lý lại bề mặt sản phẩm, phun thêm lớp bóng phủ.
-o	Phương pháp khắc phục: Phải phủ lớp bóng bên ngoài sau khi dặm màu. Vải lau phải sạch, không lẫn dung môi làm tan lớp sơn. Đảm bảo đủ thời gian khô theo quy trình (hàng ngoài trời).
-•	Màng sơn bị mốc sau khi phun khô
-o	Nguyên nhân: Điều kiện môi trường độ ẩm quá cao (> 75%), nhiệt độ thấp (< 22°C). Đường dây hơi bị lẫn nước. Dùng dung môi không phù hợp. Phun gió quá mạnh.
-o	Biện pháp xử lý nhanh: Xử lý nhanh để tiếp tục sản xuất.
-o	Phương pháp khắc phục: Điều chỉnh môi trường phù hợp (sử dụng buồng sấy). Vệ sinh đường dây hơi phun. Sử dụng dung môi theo quy trình. Thao tác phun đúng kỹ thuật.
-Dựa trên tài liệu "trouble shooting.pdf", sau đây là chi tiết về các lỗi thường gặp trong quá trình sơn lại (refinish), bao gồm nguyên nhân, cách khắc phục và biện pháp phòng ngừa:
-1. Bọt khí bị giữ lại (Air Entrapment Craters) sưu tầm
-Các lỗ nhỏ giống như miệng núi lửa xuất hiện trên hoặc trong màng sơn.
-Nguyên nhân:
-•	Các túi khí bị giữ lại trong lớp sơn ướt, sau đó nổi lên bề mặt và "vỡ" ra, tạo thành các lỗ nhỏ.
-•	Sự phun sơn không đủ mịn (lack of atomization) có thể do một hoặc nhiều nguyên nhân sau: 
-o	Tốc độ di chuyển súng phun quá chậm (Spray gun travel too slow).
-o	Khoảng cách từ súng phun đến bề mặt quá gần (Spray gun distance too close).
-o	Áp suất khí quá thấp (Air pressure to low).
-o	Thiết lập súng phun không đúng (Improper spray gun setup).
-Khắc phục:
-•	Chà nhám bằng giấy nhám loại 1200 hoặc mịn hơn, sau đó dùng chất đánh bóng (compound) và đánh bóng (polish) để khôi phục độ bóng.
-•	Hoặc, chà nhám cho bề mặt mịn và sơn lại (refinish).
-Phòng ngừa:
-•	Duy trì tốc độ di chuyển súng phun chính xác (Maintain correct spray gun speed).
-•	Duy trì khoảng cách súng phun chính xác (Maintain correct spray gun distance).
-•	Sử dụng áp suất khí được khuyến nghị (Use the recommended air pressure).
-•	Sử dụng chụp khí/béc phun/kim phun (air cap/nozzle/needle) phù hợp được khuyến nghị cho lớp sơn bóng (clear coats).
-Lưu ý:
-•	Một số trường hợp bọt khí bị giữ lại có thể có bề ngoài rất giống với hiện tượng nổ dung môi (solvent pop) hoặc bụi bẩn bám vào. Tuy nhiên, bọt khí bị giữ lại thường xảy ra khi màng sơn còn ướt và có thể xử lý bằng quy trình đánh bóng. Mặt khác, hiện tượng nổ dung môi sẽ xuất hiện sau khi màng sơn đã "se" bề mặt (skinned over) và khi chà nhám sẽ có các lỗ kim. Bụi bẩn bám vào sẽ xuất hiện khi màng sơn đang khô nhưng vẫn còn "dính". Các lỗ này, khi quan sát kỹ, sẽ có một hạt bụi ở giữa.
-2. Phai màu (Bleeding Discoloration) sưu tầm
-Sự đổi màu đỏ hoặc vàng ở lớp sơn phủ ngoài (topcoat color).
-Nguyên nhân:
-•	Dung môi trong lớp sơn phủ mới hòa tan các chất nhuộm hoặc bột màu hòa tan trong lớp sơn cũ, khiến chúng thấm vào và làm đổi màu lớp sơn mới.
-Khắc phục:
-•	Để màu sơn khô hoàn toàn (cure), cách ly bằng hai lớp sơn lót (undercoat) và sơn lại (refinish).
-•	Hoặc, loại bỏ hoàn toàn lớp sơn cũ và sơn lại (refinish).
-Phòng ngừa:
-•	Cách ly lớp sơn nghi ngờ bị phai màu bằng cách sơn một hoặc hai lớp sơn lót bề mặt hai thành phần (two component surfacer) và/hoặc lớp lót (sealer). Để khô hoàn toàn theo khuyến nghị của sản phẩm, sau đó sơn lớp phủ mong muốn.
-3. Rộp (Blistering Pimples, Bubbles, Bumps) sưu tầm
-Các vùng bị phồng rộp xuất hiện như mụn hoặc bong bóng trong màng sơn phủ, thường xảy ra sau vài tháng thi công.
-Nguyên nhân:
-•	Độ ẩm bị giữ lại bên dưới màng sơn do: 
-o	Thời gian khô không đủ sau khi chà nhám ướt;
-o	Đường dẫn khí bị nhiễm bẩn;
-o	Phun sơn trong điều kiện độ ẩm quá cao.
-•	Sử dụng dung môi pha sơn/chất làm loãng (thinner/reducer) kém chất lượng và/hoặc bay hơi quá nhanh so với điều kiện phun.
-•	Dung môi bị giữ lại do sơn các lớp quá dày khi còn ướt (wet heavy coats) mà không có đủ thời gian chờ giữa các lớp (insufficient flash time).
-•	Thời gian khô không đủ của các lớp sơn lót trước khi sơn phủ (improper dry time of undercoats before topcoating).
-•	Sơn trên bề mặt có dầu mỡ hoặc rỉ sét.
-Khắc phục:
-•	Loại bỏ vùng bị ảnh hưởng và sơn lại (refinish).
-•	Các trường hợp nghiêm trọng phải loại bỏ hoàn toàn lớp sơn đến bề mặt nền (bare substrate) trước khi sơn lại (refinishing).
-Phòng ngừa:
-•	Nếu thích chà nhám ướt, hãy để đủ thời gian cho hơi ẩm bay hơi. Tránh chà nhám ướt lớp sơn lót gốc lacquer khi có thể. Thường xuyên xả nước từ máy nén khí và đường dẫn khí. Tăng thêm thời gian chờ giữa các lớp và/hoặc thêm chất làm chậm khô (retarder) khi phun trong điều kiện ẩm ướt, hoặc phun vào thời điểm độ ẩm thấp khi có thể.
-•	Chọn dung môi pha sơn/chất làm loãng phù hợp với điều kiện phun (Select proper thinner/reducer for spray conditions).
-•	Thi công vật liệu theo khuyến nghị của sản phẩm, đảm bảo đủ thời gian chờ giữa các lớp (Apply materials according to product recommendations, allowing sufficient flash time between coats).
-•	Để các lớp sơn lót khô/đóng rắn hoàn toàn trước khi sơn phủ (Allow undercoats to thoroughly dry/cure before topcoating).
-•	Làm sạch và chuẩn bị bề mặt nền bằng các sản phẩm và quy trình được khuyến nghị (Clean and prep substrate using recommended products and procedures).
-4. Mờ trắng (Blushing Milkiness) sưu tầm
-Một lớp mờ màu xám sữa xuất hiện trên bề mặt màng sơn ngay lập tức hoặc một thời gian ngắn sau khi thi công.
-Nguyên nhân:
-•	Khi phun trong điều kiện độ ẩm cao, không khí từ súng phun và sự bay hơi của dung môi làm giảm nhiệt độ bề mặt nền xuống dưới điểm sương (dew point), khiến hơi ẩm trong không khí ngưng tụ trong hoặc trên màng sơn. Tình trạng này trở nên nghiêm trọng hơn khi sử dụng dung môi pha sơn/chất làm loãng khô quá nhanh hoặc không cân bằng (unbalanced thinner/reducer).
-Khắc phục:
-•	Nếu hiện tượng mờ trắng xảy ra trong quá trình thi công: 
-o	(a) Làm nóng vùng bị ảnh hưởng, hoặc
-o	(b) Thêm chất làm chậm khô (retarder) và sơn thêm các lớp khác.
-•	Nếu lớp sơn đã khô, hiện tượng mờ trắng nhẹ có thể được khắc phục bằng cách đánh bóng (compounding or polishing). Tuy nhiên, hiện tượng mờ trắng nghiêm trọng sẽ cần phải chà nhám và sơn lại (refinishing).
-Phòng ngừa:
-•	Luôn sử dụng dung môi và chất pha loãng/giảm chất lượng tốt theo hướng dẫn trên nhãn sản phẩm (Always use good quality solvent and thin/reduce material according to label directions).
-•	Chọn dung môi pha sơn/chất làm loãng phù hợp với điều kiện phun (Select proper thinner/reducer for spray condition).
-•	Thêm lượng chất làm chậm khô (retarder) được khuyến nghị khi phun trong điều kiện ẩm ướt (Add the recommended amount of retarder when spraying in humid conditions).
-•	Làm nóng sau khi thi công để làm bay hơi hơi ẩm (Apply heat after application to evaporate moisture).
-5. Phấn hóa (Chalking Fading, Oxidation, Weathering) sưu tầm
-Bề mặt màng sơn có màu trắng như phấn.
-Nguyên nhân:
-•	Bột màu không còn được giữ và bảo vệ bởi nhựa (resin), dẫn đến bề mặt như bột và mất độ bóng do: 
-o	Sự lão hóa tự nhiên của màng sơn (Natural weathering of the paint film).
-o	Thi công sơn không đúng cách (Improper application of paint material).
-o	Sử dụng dung môi pha sơn/chất làm loãng và/hoặc chất làm cứng (hardener) không chính hãng (generic) trong vật liệu sơn.
-o	Sử dụng quá nhiều lớp phun sương (mist/fog coats) khi sơn các lớp màu metallic một thành phần (single stage metallic finishes).
-Khắc phục:
-•	Đánh bóng (Compound) để loại bỏ lớp oxy hóa và đánh bóng (polish) để khôi phục độ bóng.
-•	Hoặc, chà nhám để loại bỏ lớp sơn bị "lão hóa" và sơn lại (refinish).
-Phòng ngừa:
-•	Rửa xe hàng tuần và thỉnh thoảng đánh bóng hoặc phủ sáp sẽ loại bỏ lớp oxy hóa khỏi bề mặt sơn (Weekly washing and occasional polishing or waxing will remove oxidation from the finish).
-•	Khuấy, lắc hoặc khuấy động kỹ tất cả các vật liệu sơn (Thoroughly stir, shake or agitate all paint materials).
-•	Sử dụng dung môi pha sơn/chất làm loãng, chất làm cứng được khuyến nghị và đo lường chính xác (Use the recommended thinner/reducer, hardener, and measure accurately).
-•	Khi phun sơn metallic một thành phần, hãy phun các lớp sương từng vùng (panel by panel) khi lớp sơn trước vẫn còn ướt (When spraying single stage metallic finishes, apply mist/fog coats panel by panel while finish is still wet).
-6. Ăn mòn hóa học/Khắc axit (Chemical Staining/Etching Acid Rain, Spotting, Discoloration) sưu tầm
-Các vết rỗ, khắc hoặc đổi màu hình dạng không đều trên màng sơn.
-Nguyên nhân:
-•	Một phản ứng hóa học xảy ra khi các chất ô nhiễm môi trường có hại, chẳng hạn như mưa axit, nhựa cây, phân chim, nhựa đường, v.v., bám trên bề mặt trong một thời gian dài.
-Khắc phục:
-•	Rửa xe bằng xà phòng và nước nóng, rửa sạch và lau khô (Wash the vehicle with soap and hot water, rinse and dry).
-•	Làm sạch bằng dung môi với chất làm sạch bề mặt thích hợp (Solvent clean with appropriate surface cleaner).
-•	Rửa bằng dung dịch baking soda và rửa lại kỹ (Wash with baking soda solution and rinse thoroughly. (One tablespoon baking soda per one quart water.)).
-•	Đánh bóng vùng bị hư hỏng (Compound damaged surface) và đánh bóng (polish) để khôi phục độ bóng.
-•	Nếu đánh bóng không loại bỏ được hư hỏng, hãy chà nhám ướt bằng giấy nhám loại 1500-2000, sau đó đánh bóng (compound and polish) để khôi phục độ bóng.
-•	Nếu cần sơn lại (refinishing), hãy chà nhám để loại bỏ vùng bị hư hỏng bằng giấy nhám có độ nhám phù hợp, rửa bằng dung dịch baking soda, sau đó sơn lại. Trong trường hợp nghiêm trọng, phải loại bỏ hoàn toàn lớp sơn đến bề mặt kim loại (bare metal).
-Phòng ngừa:
-•	Loại bỏ các chất ô nhiễm hòa tan trong nước có hại bằng cách thường xuyên rửa bằng chất tẩy rửa và nước sạch (Remove harmful water soluble contaminants by regularly washing with detergent and clear water).
-•	Định kỳ đánh bóng hoặc phủ sáp (Polish or wax periodically).
-•	Tránh đỗ xe dưới cây cối hoặc gần các nhà máy thải ra các chất hóa học (Avoid parking under trees or near factories that produce chemical fallout).
-•	Sơn lại bằng hệ thống sơn phủ gốc acrylic urethane/lớp bóng (basecoat/clearcoat) để mang lại sự bảo vệ tối đa (Refinish with an acrylic urethane basecoat/clearcoat system to provide the maximum protection).
-Lưu ý:
-•	Khi chà nhám và đánh bóng lớp sơn phủ gốc/bóng (basecoat/clearcoat), cần duy trì độ dày tối thiểu của lớp bóng (2 mils) để đảm bảo khả năng bảo vệ khỏi tia cực tím đầy đủ. Nếu việc khắc phục hư hỏng dẫn đến việc loại bỏ hơn 0.5 mils, nên sơn lại (refinishing).
-7. Sứt mẻ (Chipping Nicks, Stone Pecks, Chips, Bruises) sưu tầm
-Các vùng hư hỏng nhỏ trên màng sơn, để lại vết sứt, mẻ hoặc lỗ hổng trên bề mặt sơn.
-Nguyên nhân:
-•	Mất độ bám dính của màng sơn vào bề mặt nền do va đập từ đá hoặc các vật cứng khác.
-Khắc phục:
-•	Chà nhám và vát mép (featheredge) các vùng bị hư hỏng để loại bỏ các vết sứt mẻ, sau đó sơn lại (refinish).
-Phòng ngừa:
-•	Sử dụng hệ thống sơn lót và sơn phủ hai thành phần chất lượng cao (Use premium two component undercoat and topcoat system).
-•	Sử dụng chất tăng độ mềm dẻo (flex agent) trong hệ thống sơn lót và/hoặc sơn phủ ở những khu vực dễ bị sứt mẻ (Use a flex agent in undercoat and/or topcoat system in areas that are prone to chipping).
-8. Lệch màu (Color Mismatch Off Color, Off Shade) sưu tầm
-Lớp sơn gốc và lớp sơn sửa chữa có sự khác biệt màu sắc đáng chú ý khi quan sát dưới cùng điều kiện ánh sáng.
-Nguyên nhân:
-•	Màu sơn gốc đã "trượt" (drifted) so với tiêu chuẩn của nhà sản xuất.
-•	Lớp sơn cũ bị lão hóa và oxy hóa.
-•	Màu sơn pha quá loãng hoặc quá đặc (Color over or under reduced).
-•	Quy trình phun sơn không đúng (Improper spray procedures).
-•	Màu sơn không được khuấy hoặc lắc đều (Color not properly stirred or shaken).
-•	Thiết lập súng phun không đúng (Improper spray gun set up).
-•	Pha màu theo công thức không chính xác (Inaccurate mixing of the color formula).
-•	Sơn "từng tấm" (Panel painting) thay vì pha trộn màu (blending).
-•	Đánh giá màu dưới nguồn sáng khác với ánh sáng "hiệu chỉnh màu" (color corrected) hoặc ánh sáng tự nhiên.
-•	Chỉnh màu trước khi phun, hoặc chỉnh lớp sơn nền (basecoat) trước khi sơn lớp bóng (clearcoat).
-Khắc phục:
-•	Nếu màu sơn đủ gần để có thể pha trộn (blend): 
-o	(1) Chuẩn bị các tấm liền kề để pha trộn, sau đó (2) pha trộn màu vào các tấm liền kề.
-•	Nếu cần pha thêm màu (tint): 
-o	(1) Pha màu để có độ trùng khớp có thể pha trộn được, (2) chuẩn bị các tấm liền kề để pha trộn, sau đó (3) phun lại vùng sửa chữa, pha trộn vào các tấm liền kề.
-Phòng ngừa:
-•	Kiểm tra bảng màu thay thế để tìm các biến thể. Chọn biến thể có độ trùng khớp có thể pha trộn được (Check alternate color selector for variances. Choose the alternate that provides a blendable match).
-•	Tất cả màu sơn phải được xem dưới cùng độ bóng; đánh bóng (compound or polish) vùng cần so màu (All color must be viewed under equal gloss; compound or polish the area to be matched).
-•	Pha loãng/giảm theo hướng dẫn trên nhãn (Thin/reduce according to label direction).
-•	Tuân theo hướng dẫn trên nhãn để thi công đúng lớp sơn màu (Follow label directions for proper application of color coat).
-•	Khuấy hoặc lắc kỹ vật liệu để đảm bảo tất cả bột màu và chất metallic hòa tan và lơ lửng đều (Stir or shake materials thoroughly to be sure all pigments and metallics are in solution and suspension).
-•	Tham khảo nhãn sản phẩm hoặc phiếu dữ liệu (data sheet) để biết các khuyến nghị về súng phun, béc phun và chụp khí (Refer to product label or data sheet for spray gun, fluid nozzle, and air cap recommendations).
-•	Kiểm tra lại mã màu, số công thức, trọng lượng công thức trước khi pha màu (Recheck color code, formula number, formula weights before mixing colors).
-•	Phun thử một tấm mẫu trước khi thi công để xác định xem có cần pha trộn hoặc pha thêm màu hay không (Spray a test panel prior to application to determine if blending or tinting is necessary).
-•	Luôn sử dụng ánh sáng ban ngày tự nhiên hoặc đèn hiệu chỉnh màu để đưa ra quyết định về việc so màu (Always use natural daylight or color corrected lights to make color matching decisions).
-•	Tất cả màu sơn phải được phun ra để đánh giá chính xác. Các lớp sơn nền phải được sơn lớp bóng (All color must be sprayed out for an accurate evaluation. Basecoats must have clearcoat applied).
-•	Kiểm tra màu từ mọi góc độ, trực diện (90 độ) và nghiêng (20-60 độ) (Check color from all angles, face (90 degrees) and side tone (20-60 degrees)).
-9. Nứt nẻ (Cracking Checking, Crazing, Splitting, Alligatoring, Crowsfeet) sưu tầm
-Các vết nứt hoặc đường kẻ với độ dài và độ rộng khác nhau trên lớp sơn phủ ngoài, thường giống như các vết nứt của bùn khô.
-Nguyên nhân:
-•	Độ dày màng sơn quá mức của lớp sơn lót và/hoặc lớp sơn phủ (Excessive film thickness of the undercoat and/or topcoat).
-•	Sơn lại trên bề mặt đã bị nứt nẻ trước đó (Refinishing over a previously crazed/cracked surface).
-•	Thời gian chờ giữa các lớp không đủ và/hoặc sấy khô cưỡng bức (force drying) các lớp sơn lót bằng khí từ súng phun (Insufficient flash time between coats and/or force drying undercoats using air from the spray gun).
-•	Pha trộn không đúng cách hoặc sử dụng quá nhiều chất làm cứng (Mixing incorrectly or using too much hardener).
-•	Các thành phần sơn không được khuấy hoặc lắc kỹ (Paint ingredients not thoroughly stirred or agitated).
-•	Sự phân hủy của lớp sơn do tiếp xúc kéo dài với ánh sáng mặt trời, độ ẩm và sự thay đổi nhiệt độ khắc nghiệt (Breakdown of finish due to prolonged exposure to sunlight, moisture, and extreme temperature changes).
-•	Sử dụng chất làm loãng và/hoặc chất làm cứng không chính hãng (Using generic reducers and/or hardeners).
-Khắc phục:
-•	Loại bỏ hoàn toàn lớp sơn bị nứt và sơn lại (refinish).
-Phòng ngừa:
-•	Thi công tất cả vật liệu theo hướng dẫn trên nhãn (Apply all materials following label direction).
-•	Loại bỏ hoàn toàn các lớp sơn bị nứt nẻ trước khi sơn lại (Completely remove crazed/cracked finishes before refinishing).
-•	Không sấy khô cưỡng bức các lớp sơn lót bằng cách quạt gió bằng súng phun (Do not force dry undercoats by fanning with spray gun air).
-•	Trộn kỹ các thành phần bằng cách sử dụng các chất phụ gia được khuyến nghị. Thêm từng thành phần theo đúng trình tự theo tỷ lệ pha trộn được khuyến nghị (Mix ingredients thoroughly using the recommended additives. Add each component in proper sequence following the recommended mixing ratio).
-•	Khuấy hoặc lắc kỹ vật liệu trước khi sử dụng để đảm bảo tất cả các thành phần hòa tan (Stir or agitate materials thoroughly before use to ensure all ingredients are in solution).
-•	Sử dụng hệ thống sơn lót và sơn phủ hai thành phần chất lượng cao để mang lại độ bóng và độ bền tối đa (Use premium two component undercoat and topcoat system to provide maximum gloss and durability).
-•	Sử dụng dung môi pha sơn/chất làm loãng và chất làm cứng được khuyến nghị, sau đó đo lường chính xác (Use the recommended thinner/reducer and hardener, and then measure accurately).
-10. Bụi bẩn bám vào (Dust Contamination Dirt in Finish) sưu tầm
-Các hạt lạ bị mắc kẹt trong màng sơn.
-Nguyên nhân:
-•	Làm sạch bề mặt cần sơn không đủ (Inadequate cleaning of the surface to be painted).
-•	Môi trường phun sơn bẩn (Dirty spraying environment).
-•	Hệ thống lọc khí không đủ hoặc không khí không được lọc lọt vào buồng phun (Inadequate air filtration or unfiltered air entering the booth).
-•	Quần áo bảo hộ bẩn hoặc không phù hợp có chứa bụi, xơ vải (Dirty or unsuitable work clothes that contain dust, lint, or fibers).
-•	Các hạt từ đường ống dẫn khí bị hỏng (Particles from deteriorated air supply lines).
-•	Sử dụng giấy che chắn (masking paper) kém chất lượng (Using a poor grade masking paper).
-•	Súng phun bẩn (Dirty spray gun).
-•	Đưa xe ra khỏi buồng phun trước khi lớp sơn "không còn bụi" (Removing the vehicle from the spray booth before the finish is "dust free").
-Khắc phục:
-•	Chà nhám bằng giấy nhám loại 1200 hoặc mịn hơn, sau đó dùng chất đánh bóng (compound) và đánh bóng (polish) để khôi phục độ bóng.
-•	Hoặc, chà nhám cho bề mặt mịn và sơn lại (refinish).
-Phòng ngừa:
-•	Thổi sạch xung quanh cửa sổ, cửa ra vào, mép cửa (jambs), nắp capo, cốp xe, các đường viền (moldings), khoang động cơ và các hốc bánh xe. Lau bề mặt cần sơn và giấy che chắn bằng khăn dính bụi (tack rag) (Thoroughly blow off around windows, doors, jambs, hood, trunk, moldings, engine compartment, and wheel openings. Wipe the surface to be painted and the masking paper with the tack rag).
-•	Duy trì khu vực làm việc sạch sẽ (Maintain a clean working area).
-•	Lắp đặt bộ lọc khí thích hợp. Không bao giờ sử dụng bộ lọc lò sưởi dân dụng trong buồng phun (Install proper air filters. Never use residential-type furnace filters in the spray booth).
-•	Sửa chữa mọi chỗ rò rỉ trong buồng phun do cửa, gioăng, mối nối hoặc bộ lọc không kín (Repair any leakage found in the spray booth due to poor fitting doors, gaskets, seams or filters).
-•	Mặc quần áo bảo hộ không xơ vải trong quá trình phun sơn (Wear a lint free paint suit during the spray application).
-•	Sử dụng vật liệu che chắn chất lượng tốt. Các "mảnh vụn" (wicks) từ giấy báo có thể bong ra và thổi vào lớp sơn ướt (Use quality masking materials. "Wicks" found on newspaper can break away and blow into the wet paint).
-•	Sửa chữa hoặc thay thế đường ống dẫn khí bị hỏng (Repair or replace defective air lines).
-•	Vệ sinh và bảo dưỡng đúng cách thiết bị phun sơn (Properly clean and maintain spray equipment).
-•	Giữ xe trong môi trường sạch sẽ cho đến khi lớp sơn "không còn bụi" (Vehicle should be kept in a clean environment until finish is "dust free").
-Lưu ý:
-•	Các hạt bụi mịn rơi trên bề mặt dính có thể bị lớp sơn bao phủ, tạo ra vẻ ngoài gần giống hệt như hiện tượng nổ dung môi (solvent pop). Hiện tượng "nổ dung môi" này thường xảy ra trên các xe được đưa ra khỏi buồng phun khi lớp sơn vẫn còn hơi dính và được đặt ở nơi khác để khô. Bụi bẩn bám vào có thể được loại bỏ bằng cách chà nhám và đánh bóng. Tuy nhiên, nếu đó là hiện tượng nổ dung môi, lớp sơn sẽ có các lỗ kim hoặc các lỗ nhỏ sau khi chà nhám.
-11. Lộ viền (Edge Mapping Edge Ringing, Featheredge Lifting) sưu tầm
-Các mép bị phồng hoặc bong lên trong màng sơn ướt hoặc khô, tạo đường viền cho các chỗ chà nhám thủng (sand throughs) hoặc mép vát (featheredges).
-Nguyên nhân:
-•	Dung môi từ lớp sơn phủ mới thấm vào bề mặt nền nhạy cảm với dung môi, gây ra hiện tượng bong hoặc nhăn nheo theo đường viền mép vát.
-Khắc phục:
-•	Chà nhám cho bề mặt mịn hoặc loại bỏ vùng bị ảnh hưởng. (Chà nhám cuối cùng bằng giấy nhám loại 400 hoặc mịn hơn).
-•	Cách ly vùng bị ảnh hưởng bằng sơn lót bề mặt hai thành phần (two component primer surfacer) và sơn lại (refinish).
-•	Hoặc, sơn lớp lót bề mặt gốc nước (water borne primer surfacer), chà nhám mịn và sơn lại (refinish).
-•	Hoặc, sơn lớp lót bề mặt gốc acrylic lacquer pha loãng bằng dung môi không thẩm thấu (non-penetrating thinner), chà nhám mịn và sơn lại (refinish).
-Phòng ngừa:
-•	Kiểm tra các bề mặt sơn đáng ngờ bằng cách chà xát một vùng nhỏ kín đáo bằng khăn lau có thấm dung môi lacquer. Các bề mặt sơn dễ bị bong tróc sẽ mềm, nhăn hoặc co lại khi bôi dung môi lacquer. Nếu xảy ra bất kỳ phản ứng nào trong số này, nên cân nhắc các khuyến nghị sau: 
-o	Sử dụng sơn lót bề mặt gốc acrylic urethane, sơn lót bề mặt gốc nước, hoặc sơn lót bề mặt gốc acrylic lacquer pha loãng bằng dung môi không thẩm thấu trên các bề mặt nhạy cảm.
-o	Sử dụng giấy nhám loại 400 hoặc mịn hơn khi vát mép.
-o	Tránh chà nhám thủng lớp sơn phủ màu hoặc lớp bóng không hòa tan, làm lộ ra các lớp sơn nhạy cảm hoặc hòa tan với dung môi.
-12. Mắt cá (Fisheyes Silicone Contamination, Cratering) sưu tầm
-Các lỗ tròn nhỏ giống như miệng núi lửa xuất hiện trong hoặc ngay sau khi phun sơn.
-Nguyên nhân:
-•	Phun sơn trên bề mặt bị nhiễm dầu, sáp, silicone, mỡ, v.v.
-•	Sử dụng dung môi pha sơn/chất làm loãng thay vì chất làm sạch dung môi (solvent cleaner).
-•	Phun sơn trên các vùng đã sửa chữa trước đó có chứa phụ gia "chống mắt cá" (fisheye eliminator).
-Khắc phục:
-•	Loại bỏ lớp sơn ướt bằng dung môi, làm sạch và sơn lại (refinish).
-•	Thêm chất chống mắt cá được khuyến nghị và phun lại vùng bị ảnh hưởng.
-•	Nếu mắt cá xuất hiện trong lớp sơn nền (basecoat), hãy để lớp màu bay hơi (flash) rồi phun một lớp sương lên vùng bị ảnh hưởng. Không sử dụng chất chống mắt cá trong lớp sơn lót hoặc lớp sơn nền.
-•	Nếu sơn đã khô, chà nhám mịn xuống dưới các lỗ mắt cá và sơn lại (refinish).
-Phòng ngừa:
-•	Làm sạch kỹ bề mặt cần sơn bằng chất tẩy rửa và nước nóng, sau đó dùng chất làm sạch dung môi được khuyến nghị. Lau khô bằng giẻ sạch (Thoroughly clean the surface to be painted with detergent and hot water, followed by the recommended solvent cleaner. Wipe dry with clean rags).
-•	Sử dụng chất chống mắt cá được khuyến nghị đặc biệt cho lớp sơn phủ (Use fisheye eliminator that is specifically recommended for the topcoat).
-•	Lắp đặt hệ thống lọc khí có khả năng loại bỏ và ngăn ngừa ô nhiễm dầu và hơi ẩm (Install an air filtering system that removes and prevents oil and moisture contamination).
-•	Bảo trì hệ thống cấp khí bằng cách xả, làm sạch và thay thế bộ lọc định kỳ (Maintain air supply by draining, cleaning and changing filter(s) on a routine basis).
-13. Bong tróc (Lifting Wrinkling, Raising, Alligatoring, Shriveling, Swelling) sưu tầm
-Lớp sơn cũ co rút, nhăn nheo hoặc phồng rộp trong quá trình thi công hoặc khô lớp sơn mới.
-Nguyên nhân:
-•	Dung môi trong sản phẩm mới vừa thi công tấn công lớp sơn cũ, gây ra hiện tượng nhăn nheo, phồng rộp hoặc co rút của màng sơn do: 
-o	Sơn phủ lại (recoating) các loại sơn enamel hoặc urethane chưa khô hoàn toàn.
-o	Vượt quá thời gian chờ tối đa (maximum flash or recoat times) trong quá trình thi công.
-o	Sơn phủ lại lớp sơn nền/bóng (basecoat/clearcoat) khi lớp bóng cũ không đủ độ dày màng sơn (insufficient film build).
-Khắc phục:
-•	Loại bỏ các vùng bị bong tróc và sơn lại (refinish).
-Phòng ngừa:
-•	Kiểm tra các bề mặt sơn đáng ngờ bằng cách chà xát một vùng nhỏ kín đáo bằng khăn lau có thấm dung môi lacquer. Các bề mặt sơn dễ bị bong tróc sẽ mềm, phồng hoặc co lại khi bôi dung môi lacquer. Nếu xảy ra bất kỳ phản ứng nào trong số này, nên cân nhắc các khuyến nghị sau: 
-o	Không vượt quá thời gian sơn phủ lại tối đa của sản phẩm trong hoặc sau khi thi công.
-o	Để sơn enamel hoặc urethane khô hoàn toàn trước khi sơn phủ lại hoặc tiến hành sửa chữa.
-o	Tránh sơn các lớp lót hoặc lớp phủ quá ướt.
-o	Tránh sử dụng các sản phẩm lacquer trên lớp sơn enamel đã khô tự nhiên.
-o	Khi vật liệu không hòa tan (enamel/urethane) được sơn trên vật liệu hòa tan (lacquer): 
-	Tránh chà nhám thủng làm lộ ra các vùng vật liệu hòa tan.
-	Sơn lớp lót bề mặt và/hoặc lớp lót hai thành phần (two component primer surfacer and/or sealer) như một lớp ngăn cách giữa lớp sơn mới và lớp sơn cũ. Khi sơn các lớp lót hai thành phần trên bề mặt sơn hòa tan, phải sơn toàn bộ tấm.
-o	Sử dụng lớp lót gốc nước (water borne undercoats) để sửa chữa các bề mặt sơn cực kỳ nhạy cảm.
-14. Mất độ bóng (Loss of Gloss Hazing Dulling, Dieback, Matting, Weathering) sưu tầm
-Độ bóng giảm dần khi màng sơn khô hoặc lão hóa.
-Nguyên nhân:
-•	Sơn phủ (topcoat) được thi công các lớp dày và ướt.
-•	Thời gian chờ giữa các lớp không đủ (Inadequate flash time between coats).
-•	Độ dày màng sơn không đủ của lớp sơn phủ màu hoặc lớp bóng (Insufficient film thickness of topcoat color or clearcoat).
-•	Các lớp sơn lót không đủ khô/đóng rắn trước khi sơn phủ (Insufficient drying/curling of undercoats before applying topcoats).
-•	Sử dụng dung môi pha sơn/chất làm loãng kém chất lượng và/hoặc bay hơi quá nhanh so với điều kiện phun (Using a poor grade and/or too fast evaporating thinner/reducer for spray conditions).
-•	Làm sạch bề mặt nền không đúng cách (Improper cleaning of the substrate).
-•	Không đủ sự lưu thông không khí trong và sau khi thi công (Insufficient air movement during and after application).
-•	Phun sơn trên bề mặt sơn đã xuống cấp hoặc nhạy cảm với dung môi mà không có quy trình sơn lót hoặc làm kín (sealing) phù hợp (Spraying over a deteriorated or solvent sensitive substrate finish without proper priming or sealing procedures).
-•	Sự lão hóa tự nhiên của lớp sơn (Natural weathering of the finish).
-Khắc phục:
-•	Để lớp sơn khô hoàn toàn (cure thoroughly), đánh bóng (compound or polish) để khôi phục độ bóng.
-•	Hoặc, chà nhám và sơn lại (refinish).
-Phòng ngừa:
-•	Thi công lớp sơn phủ theo hướng dẫn trên nhãn sản phẩm, sử dụng thiết lập súng phun và áp suất khí được khuyến nghị (Apply the topcoat according to product label directions using the recommended gun set-up and air pressure).
-•	Đảm bảo tất cả các lớp sơn có đủ thời gian chờ giữa các lớp (Allow all coatings sufficient flash between coats).
-•	Sơn đủ số lớp để đạt được độ dày màng sơn thích hợp được khuyến nghị. Kiểm tra bằng thước đo độ dày màng sơn nếu có thể (Apply sufficient number of coats to achieve recommended proper film thickness. Check with film thickness gauge if possible).
-•	Để các lớp sơn lót khô/đóng rắn hoàn toàn trước khi sơn phủ (Allow undercoats to thoroughly dry/cure before topcoating).
-•	Chọn dung môi pha sơn/chất làm loãng được khuyến nghị dựa trên nhiệt độ, độ ẩm, sự lưu thông không khí và quy mô sửa chữa (Select recommended thinner/reducer based on temperature, humidity, air movement, and size of repair).
-•	Làm sạch bề mặt nền kỹ lưỡng trước và sau khi chà nhám (Clean substrate thoroughly before and after sanding).
-•	Đối với các trường hợp khô tự nhiên: 
-o	Để quạt hút gió hoạt động 40 phút hoặc lâu hơn sau khi phun (allow exhaust fan to run 40 minutes or longer after spraying).
-o	Mở cửa buồng phun sau khi lớp sơn không còn bụi (open booth doors after finish is dust free).
-o	Duy trì nhiệt độ xưởng từ 15.5 độ C (60 degrees Fahrenheit) trở lên, đặc biệt khi để khô qua đêm (maintain a shop temperature of 60 degrees fahrenheit or above, especially when drying overnight).
-•	Để có độ bám dính tối đa (maximum holdout), hãy sử dụng hệ thống sơn lót hai thành phần chất lượng cao (use a premium two component undercoat system).
-•	Thường xuyên rửa và chăm sóc đúng cách bề mặt sơn (Properly wash and care for the finish on a regular basis).
-•	Sử dụng hệ thống sơn phủ màu hoặc lớp bóng chất lượng cao sẽ mang lại độ bóng và độ bền tối đa (Using premium topcoat color or clearcoat system will provide maximum gloss and durability).
+Bạn là TLP001, Dựa vào các dữ liệu được cung cấp và không chế tác thêm cũng như thêm các nguồn bên ngoài ,  không tự dự đoán nội dung , luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. 
+Các loại sơn lót NC:
+•	Lót NC T2012: Tỷ lệ pha sơn và dung môi không được chỉ định. Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC-DN: Tỷ lệ pha là 1 phần sơn với 2 phần dung môi NC02. Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 50-110 phút.
+•	Lót NC DT 2: Thông tin chi tiết không được cung cấp.
+•	Lót NC 2805: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi (không được chỉ định cụ thể).
+•	Lót NC-HB: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NCHB. Độ nhớt Cup NK2 là 13-14 giây. Thời gian khô để chà nhám là 90-150 phút.
+•	Lót NC-PAK 2512: Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC-NA: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NCNA. Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC 1705 KP: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02.
+•	LótNC 1212: Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 90-150 phút.
+•	Lót NC 1212 (2407): Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC1212. Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC 1212 (MH): Độ nhớt Cup NK2 là 16-18 giây. Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC KH: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC 1010. Độ nhớt Cup NK2 là 16-18 giây. Thời gian khô để chà nhám là 90-150 phút.
+•	Lót NC 1212 (MH)(DNE): Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 14-16 giây. Thời gian khô để chà nhám là 60-120 phút.
+•	LOT NC KH 0204: Tỷ lệ pha là 1 phần sơn với 0.9 phần dung môi NC 1010 KH. Độ nhớt Cup NK2 là 16-18 giây (hoặc 13-15 CUP A). Thời gian khô để chà nhám là 50-110 phút.
+•	Lót NC 1807: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi (hỏi lại QC NC02 khi cần làm quy trình do có sự điều chỉnh). Độ nhớt Cup NK2 là 13-14 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	Đầu bóng N3: Tỷ lệ pha là 1 phần sơn với 2 phần dung môi (không được chỉ định cụ thể). Độ nhớt Cup NK2 là 16-18 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC PAK 2709: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 60-120 phút.
+•	Lót NC 0910 MS MB: Tỷ lệ pha là 1 phần sơn với 0.8 phần dung môi NC 0910. Độ nhớt Cup NK2 là 17-19 giây. Thời gian khô để chà nhám là 50-110 phút.
+•	Lót NC 0910 TD: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC 0910. Độ nhớt Cup NK2 là 17-19 giây. Thời gian khô để chà nhám là 50-110 phút.
+•	Lót NC T 1406: Tỷ lệ pha là 1 phần sơn với 1.7 phần dung môi NC02. Độ nhớt Cup NK2 là 14-15 giây. Thời gian khô để chà nhám là 60-120 phút.
+•	LótNC Mod 1106: Tỷ lệ pha là 10 phần sơn với 1 phần chất làm cứng CứngNC Modl106L và 10 phần dung môi NC Mod. Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 120-180 phút. Thời gian sử dụng hỗn hợp đã pha cứng là 4 giờ.
+•	Lót NC 2307 Trang: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC2307 Trang (HN): Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC-NA trang: Tỷ lệ pha là 1 phần sơn với 0.7 phần dung môi NCNA. Độ nhớt Cup NK2 là 15-17 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC 2407 Trang: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Thời gian khô để chà nhám là 120-180 phút. Có thể bị bột ra nhiều khi chà nhám, cần chà nhẹ để tránh dính nhám, chà mạnh tay hơn thì đỡ dính nhám hơn (hạt li ti ~5% diện tích giấy nhám).
+•	Lót NC KP Trang: Tỷ lệ pha là 1 phần sơn với 0.5 phần dung môi NC02. Độ nhớt Cup NK2 là 20-22 giây. Thời gian khô để chà nhám là 120-180 phút. Bột ra nhiều khi chà, cần chà nhẹ để không dính nhám, chà mạnh tay hơn thì đỡ dính nhám hơn (dính hạt li ti ~5-10% diện tích giấy nhám).
+•	Lót NC 1807 Trang: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC 1010 KH. Độ nhớt Cup NK2 là 16-18 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC KP Trang (Đ): Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	Lót NC2307TrangVNHW: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Độ nhớt Cup NK2 là 16-18 giây. Thời gian khô để chà nhám là 120-180 phút.
+•	LótNC-Mod trang: Tỷ lệ pha là 10 phần sơn với 1 phần chất làm cứng CứngNC Mod 1106L và 10 phần dung môi NC-Mod. Độ nhớt Cup NK2 là 13-14 giây. Thời gian khô để chà nhám là 120-180 phút. Thời gian sử dụng hỗn hợp đã pha cứng là 4-6 giờ.
+•	Bóng NC T2012: Tỷ lệ pha là 1 phần sơn với 2 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (Matt ~80%).
+•	MattNC 1503: Tỷ lệ pha là 1 phần sơn với 2 phần dung môi NC02. Độ nhớt Cup NK2 là 10-11 giây. Độ bóng (DB ≤50%): thời gian khô không dính mặt sau 12-16 giờ.
+•	Bóng NC2805: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (DB: 20-740%): thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC KP: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (5~80%) DB < 20%: thời gian khô không dính mặt sau 6-8 giờ.
+•	Bóng NC3005 SCR: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng (≤35%).
+•	BóngNCT20121S0S: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Độ nhớt Cup NK2 là 10-11 giây. Độ bóng (≤40%).
+•	Bóng NC T 1406: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây.
+•	Bóng NC NA: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC-NA. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (10~80%).
+•	Bóng NC 260S KH: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NCI0I0. Độ nhớt Cup NK2 là 14-15 giây. Độ bóng (5~70%) DB 5-710%: thời gian khô không dính mặt sau 4-6 giờ. DB 20-740%: thời gian khô không dính mặt sau 8-12 giờ. DB ≥50%: thời gian khô không dính mặt sau 12-14 giờ.
+•	Bóng NC 260S KH DNE: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng DB 10%: thời gian khô không dính mặt sau 6-8 giờ.
+•	BóngNC 1212: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC1212. Độ nhớt Cup NK2 là 14-15 giây. Độ bóng (Matt~ 80) DB ≤30%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Sản phẩm trong NC 0910: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi DMNC0910. Độ nhớt Cup NK2 là 14-15 giây. Độ bóng DB 25%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC P AK 2709: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng (≤30%) DB ≤ 50%: thời gian khô không dính mặt sau 12-16 giờ.
+•	Bóng NCHB: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NCHB. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng (Matt-780%) DB 20-740%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NCP AK 2512: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NCHB. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng (<20%) DB <20%: thời gian khô không dính mặt sau 6-8 giờ. Độ bóng (≤80%).
+•	Bóng NC-NY: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC-HB. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng (5-780%) DB ≤ 10%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY (TV): Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC 1212. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng DB 20~30%: thời gian khô không dính mặt sau 18-22 giờ. DB >40%: thời gian khô không dính mặt sau 24-30 giờ.
+•	Bóng NC NY 3005 SCR: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NCHB. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng DB ≤ 10%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY 1807: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng DB 5%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY 2605: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC 1010. Độ nhớt Cup NK2 là 14-15 giây. Độ bóng (≤70%) DB 5-71 0%: thời gian khô không dính mặt sau 4-6 giờ. DB 20-730%: thời gian khô không dính mặt sau 8-12 giờ. DB ≥40%: thời gian khô không dính mặt sau 12-16 giờ.
+•	Bóng NC NY 260S KH: Tỷ lệ pha là 1 phần sơn với 1.3 phần dung môi NC 1010 KH. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng (≤70%).
+•	BóngNCNY 1801: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NC02. Độ nhớt Cup NK2 là 11- 12 giây. Độ bóng DB ≤-IO%: thời gian khô không dính mặt sau 12 -16giờ. Or: DB ≥20%: thời gian khô không dính mặt sau 18-22 giờ.
+•	Bóng NC 2307 trang: Tỷ lệ pha là không được chỉ định. Dung môi sử dụng là NC02. Độ bóng (10 -770%) -Bóng 50-770%: thời gian khô không dính mặt sau 12-16 giờ. (10 -770%) -Bóng 20-740%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC-NA NY trang: Tỷ lệ pha là không được chỉ định. Dung môi sử dụng là NC-NA. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (10-780%) - Bóng 5-710%: thời gian khô không dính mặt sau 6 - 8 giờ.
+•	Bóng NC-NY trang: Tỷ lệ pha là 1 phần sơn với 1.5 phần dung môi NC-HB. Độ bóng (5-770%) -Bóng 5-710%: thời gian khô không dính mặt sau 8-12 giờ. (5-770%) -Bóng 20-740%: thời gian khô không dính mặt sau 16-20 giờ. (5-770%) - Bóng 50-770%: thời gian khô không dính mặt sau 24-30 giờ.
+•	Bóng NC NY 2605 trang: Tỷ lệ pha là không được chỉ định. Dung môi sử dụng là NC 1010. Độ nhớt Cup NK2 là 14-15 giây. Độ bóng (5-770%) - Bóng 10%: thời gian khô không dính mặt sau 5-6 giờ. (5-770%) - Bóng 20-40%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY 3003 trang: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NCHB. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng (5-770%) - Bóng 10%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY 2712Triing: Tỷ lệ pha là 1 phần sơn với 0.7 phần dung môi NCHB. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng - Bóng 10%: thời gian khô không dính mặt sau 8-12 giờ.
+•	Bóng NC NY 3005 SCR Trang: Tỷ lệ pha là 1 phần sơn với 1 phần dung môi NCHB. Độ nhớt Cup NK2 là 11-12 giây. Độ bóng - Bóng 5-710% : thời gian khô không dính mặt sau 8-12 giờ.
+Sơn bóng NC Mod (Clear + Trắng):
+•	Bóng NC Mod 1106: Tỷ lệ pha không được chỉ định. Sử dụng chất làm cứng CứngNC Mod 1106. Dung môi NC- Mod. Độ nhớt Cup NK2 là 13-14 giây. Độ bóng (5780%) -Bóng 50770%: thời gian khô không dính mặt sau 12-16 giờ. -Bóng 20740%: thời gian khô không dính mặt sau 8-12 giờ. - Bóng 5710%: thời gian khô không dính mặt sau 6 - 8 giờ.
+•	BóngNC Mod 10-1-10 Trang NY: Tỷ lệ pha không được chỉ định. Sử dụng chất làm cứng CứngPU HXXT. Dung môi NC-Mod. Độ nhớt Cup NK2 là 12-13 giây. Độ bóng (5780%) - Bóng 80%: thời gian khô không dính mặt sau 24-30 giờ. -Bóng 20740%: thời gian khô không dính mặt sau 12-16 giờ. - Bóng  5710%: thời gian khô không dính mặt sau 6 - 8 giờ. Thời gian sử dụng hỗn hợp đã pha cứng là 4-6 giờ.
+Lưu ý chung về sơn NC:
+•	Hỗn hợp sơn sau khi pha với dung môi cần đậy kín và sử dụng trong ngày.
+•	Cần khuấy đều dung dịch sơn trước khi sử dụng.
+•	Độ dày màng sơn ướt khuyến nghị cho lớp lót thường là 100 μm khi sử dụng giấy nhám #320.
+•	Yêu cầu giữa các lớp sơn lót cần đảm bảo thời gian khô và chà nhám trước khi phun lớp tiếp theo.
+•	Một số loại sơn NC có thể gặp vấn đề bột ra nhiều khi chà nhám, cần điều chỉnh lực chà cho phù hợp.
+Dựa trên các nguồn đã cung cấp, hệ sơn PU (Polyurethane) bao gồm nhiều loại sản phẩm khác nhau, được phân loại chủ yếu thành sơn lót PU (L6t PU) và sơn bóng PU (Bóng PU), bao gồm cả loại bóng trong (clear) và bóng trắng (trắng).
+1. Sơn Lót PU (L6t PU):
+Sơn lót PU được sử dụng làm lớp nền trước khi sơn các lớp phủ khác. Các nguồn cung cấp thông tin chi tiết về nhiều loại sơn lót PU khác nhau:
+•	Các loại sơn lót PU thông thường:
+o	L6tPU 2-1-2: Tỷ lệ pha sơn-cứng-dung môi là 2-1-2. Độ nhớt 12-13 giây (Cup NK2). Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng sau khi pha cứng 3-4 giờ.
+o	L6tPULBR 2-1-2: Tỷ lệ pha 2-1-2. Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng 3-4 giờ.
+o	L6tPU-NA 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 12-13 giây. Sử dụng cứng PU và dung môi PUNA.
+o	L6t PU 2802: Tỷ lệ pha 2-1-1.5 (ngoại lệ có thể 2-1-1.2). Độ nhớt 11-12 giây. Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng 3-4 giờ. Lưu ý: Có thể sử dụng cứng PU-FDWS 2101 (tỷ lệ 1-2) để khô nhanh hơn (1-2 giờ sử dụng).
+o	L6t PU IT 0807 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 11-12 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 4 giờ.
+o	L6t PU-0707 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 13-14 giây. Thời gian khô chà nhám 3-4 giờ. Thời gian sử dụng 3-4 giờ.
+o	L6t PU FD 0212 4-1-3: Tỷ lệ pha 4-1-3. Độ nhớt 12-13 giây. Thời gian khô chà nhám 3 giờ 30 phút - 4 giờ 30 phút. Thời gian sử dụng 5-6 giờ.
+o	L6t PU-TXXT 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 11-12 giây. Có thể bị "chà ra bột nhiều khi chà mạnh dính nhám chậm li ti ít". Thời gian khô chà nhám 1-2 giờ.
+o	Lót PU 0404 2 -1-1: Tỷ lệ pha 2-1-1. Độ nhớt 10-11 giây. Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng 2-3 giờ.
+o	m.u Bóng  P2 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 16-18 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 2-3 giờ.
+o	Lot PU BTXX KD 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 14-16 giây. Thời gian khô chà nhám 1 giờ 30 phút - 2 giờ 30 phút. Thời gian sử dụng 2 giờ.
+o	Lot PU 1008 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 14-15 giây. Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng 2-3 giờ.
+o	L6t PU Chocoat 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 12-13 giây. Thời gian khô chà nhám 1 giờ 30 phút - 2 giờ 30 phút. Thời gian sử dụng 1-2 giờ.
+o	L6t PU HG 3005 2-1-1. 5: Tỷ lệ pha 2-1-1.5. Độ nhớt 14-15 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 2-3 giờ.
+o	Lót PU 1603 2-1-0.5: Tỷ lệ pha 2-1-0.5. Độ nhớt 20-22 giây. Thời gian khô chà nhám 3-4 giờ. Thời gian sử dụng 1-2 giờ.
+o	L6t PU 0404 TRT 2-1-1: Tỷ lệ pha 2-1-1. Độ nhớt 10-11 giây. Thời gian khô chà nhám 1-2 giờ. Thời gian sử dụng 1-2 giờ.
+o	Lưu ý chung cho sơn lót PU: Khi pha sơn và dung môi, cần khuấy tan đều trước khi pha cứng. Dung dịch sơn sau khi pha cứng phải đậy kín và khuấy đều trước khi sử dụng. Độ dày màng sơn ướt khuyến nghị thường là 100 μm và nên chà nhám bằng giấy nhám #320 sau khi khô.
+•	Các loại sơn lót PU trắng (L6t PU Trang He PU):
+o	L6t PU Trang 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 10-11 giây. Thời gian khô chà nhám 3 giờ 30 phút - 4 giờ 30 phút. Thời gian sử dụng 3-4 giờ.
+o	L6t PU-NA Trang 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 11-12 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 3-4 giờ. Sử dụng dung môi PUNA.
+o	L6t PU 2802 Trang: Tỷ lệ pha 2-1-1.2. Độ nhớt 11-12 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 3-4 giờ. Có thể sử dụng cứng PU-FDWS 2101 (tỷ lệ 1-2) để khô nhanh hơn (1-2 giờ sử dụng).
+o	L6t PU 2011 TL 4-1-2.5: Tỷ lệ pha 4-1-2.5. Độ nhớt 20-22 giây. Thời gian khô chà nhám 5-6 giờ. Thời gian sử dụng 2 giờ.
+o	L6t PU FO 2106 Trang 4-1-3: Tỷ lệ pha 4-1-3. Độ nhớt 12-13 giây. Thời gian khô chà nhám 3-4 giờ. Thời gian sử dụng 2-3 giờ.
+o	L6t PU 0601 Trang 4-1-3: Tỷ lệ pha 4-1-3. Độ nhớt không được đề cập. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 3-4 giờ.
+o	L6t PU 1905 Trang 4-1-3.5: Tỷ lệ pha 4-1-3.5. Độ nhớt 12-13 giây. Thời gian khô chà nhám 2 giờ 30 phút - 3 giờ 30 phút. Thời gian sử dụng 3-4 giờ.
+o	L6t PU 0707 Trang 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 12-14 giây. Thời gian khô chà nhám 3-4 giờ. Thời gian sử dụng 3-4 giờ. Ghi chú: "Bọt nhiều, dễ chà nhám. Chà nhẹ không dính nhám, chà mạnh tay còn dính nhám ít (~5%)".
+o	L6t PU 0707 Trang 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 12-13 giây. Thời gian khô chà nhám 5-6 giờ. Thời gian sử dụng 2-3 giờ.
+o	L6t PU 0707 NY Trang 4-1-3: Tỷ lệ pha 4-1-3. Độ nhớt 12-13 giây. Thời gian khô chà nhám 5-6 giờ. Thời gian sử dụng 2-3 giờ.
+o	Lot PUTXXT Trang 3-1-2: Tỷ lệ pha 3-1-2. Độ nhớt 11-12 giây. Thời gian khô chà nhám sau 6-7 giờ. Thời gian sử dụng 3-4 giờ. Lưu ý: "khi chà nhám ra bột - còn dính nhám, để qua ngày chà nhám hết dính nhám".
+o	L6t nhung PU 1710 Trang 3-1-2: Tỷ lệ pha 3-1-2. Độ nhớt 8-9 giây. Thời gian khô chà nhám 2-3 giờ. Thời gian sử dụng 4-6 giờ.
+2. Sơn Bóng PU (Bóng PU Clear):
+Sơn bóng PU được sử dụng làm lớp phủ cuối cùng để tạo độ bóng và bảo vệ bề mặt.
+•	Các loại sơn bóng PU trong (Clear He PU):
+o	Bóng  PU-BTXX -Bóng  ~70%: Tỷ lệ pha 2-1-2. Độ nhớt 14-18 giây. Thời gian đóng gói sau 14-18 giờ (độ bóng 5~90%) hoặc sau 8-12 giờ (độ bóng 20-50%).
+o	Bóng  PU-BTVS: Tỷ lệ pha không được đề cập. Độ nhớt 11 giây. Thời gian đóng gói sau 5-6 giờ (độ bóng 10~90%). Thời gian pha sử dụng 3-4 giờ.
+o	Bóng  PU VS0411 0 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 11-12 giây. Thời gian đóng gói sau 12 giờ (độ bóng 10~90%) hoặc sau 24 giờ (độ bóng 90%). Thời gian pha sử dụng không được đề cập.
+o	Bóng PU-HJFD 3-1-1.5: Tỷ lệ pha 3-1-1.5. Độ nhớt 12-13 giây. Thời gian đóng gói sau 16-18 giờ (độ bóng 5,10%), 18-22 giờ (độ bóng 20-50%), hoặc 24-30 giờ (độ bóng 60-90%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng  PU-HJFD 4-1-3: Tỷ lệ pha 4-1-3. Độ nhớt 11-12 giây. Thời gian đóng gói sau 4-6 giờ (độ bóng 5,10%), 8-12 giờ (độ bóng 20-30%), hoặc 16-18 giờ (độ bóng 80%). Thời gian pha sử dụng 3-4 giờ.
+o	Bóng  PU TXXT . 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt 11-12 giây. Thời gian đóng gói sau 20-24 giờ (độ bóng ≤30%) hoặc 40 giờ (độ bóng 90%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng  PU 2705 3-2-1: Tỷ lệ pha 3-2-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 18-22 giờ (độ bóng ≤30%) hoặc 26-30 giờ (độ bóng ~85%). Thời gian pha sử dụng 2-3 giờ.
+o	Bóng  PU OD 0408 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 11-12 giây. Thời gian đóng gói sau 14-18 giờ (độ bóng 5, 10%), 18-22 giờ (độ bóng 20-40%), 24-30 giờ (độ bóng 50-70%), hoặc 52 giờ (độ bóng 90%). Thời gian pha sử dụng 4-6 giờ.
+o	Dau Bóng  P5:50, P5:10 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 11-12 giây. Thời gian đóng gói sau 8-12 giờ.
+o	Bóng  PU 2304 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 13-14 giây. Thời gian đóng gói sau 8-12 giờ (độ bóng 10-20%). Thời gian pha sử dụng 2-3 giờ.
+o	Bóng  PU-HXXT 2-0.7-1: Tỷ lệ pha 2-0.7-1. Độ nhớt 12-13 giây. Thời gian đóng gói sau 20-22 giờ (độ bóng 5, 10%), 24-30 giờ (độ bóng 20-50%), hoặc 52 giờ (độ bóng 90%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng PUHXXT NA(10~90%): Tỷ lệ pha không được đề cập. Độ nhớt không được đề cập. Thời gian đóng gói không được đề cập. Sử dụng cứng PU-HXXT và dung môi PU-NA.
+o	Bóng PU-SM2 3-1-1: Tỷ lệ pha 3-1-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 24 giờ (độ bóng ~85%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng PUSM0506 5-1: Tỷ lệ pha 5-1. Độ nhớt 9-10 giây. Thời gian đóng gói sau 12 giờ (độ bóng 5,10%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng PUBTXX KD 2-1-2: Tỷ lệ pha 2-1-2. Độ nhớt 14-16 giây. Thời gian đóng gói sau 8-12 giờ (độ bóng ~30%). Thời gian pha sử dụng 2-3 giờ.
+o	Bóng  PU 0609N 3-1-1.5: Tỷ lệ pha 3-1-1.5. Độ nhớt 16-18 giây. Thời gian pha sử dụng 2-3 giờ.
+o	Bóng  PUHG 3005 2-1.4-1: Tỷ lệ pha 2-1.4-1. Độ nhớt 12-13 giây. Thời gian đóng gói sau 26 giờ (độ bóng ~90%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PUHG 3005 2-1-1.5: Tỷ lệ pha 2-1-1.5. Độ nhớt không được đề cập. Thời gian đóng gói sau 8 giờ (độ bóng 35%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU 2007 TRT 4-1-1: Tỷ lệ pha 4-1-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 32 giờ (độ bóng ~80-85%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU SM 2802 2-1-1: Tỷ lệ pha 2-1-1. Độ nhớt 9-10 giây. Thời gian đóng gói (độ bóng ~80-85%). Thời gian pha sử dụng 2-3 giờ.
+o	Bóng  PU SM 3001 1-1-0.2: Tỷ lệ pha 1-1-0.2. Độ nhớt 8-9 giây. Thời gian đóng gói sau 48 giờ (độ bóng ~85%). Thời gian pha sử dụng 2-3 giờ. Áp dụng cho quy trình: Lót PU 2106 Trang-sơn màu PU.
+o	Bóng  PU 001107 3-1-1: Tỷ lệ pha 3-1-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 12 giờ (độ bóng 5-15%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU 001210 2-1-0.7: Tỷ lệ pha 2-1-0.7. Độ nhớt 10-11 giây. Thời gian đóng gói sau 36-40 giờ. Thời gian pha sử dụng 4 giờ.
+o	Bóng PUGP 3-1-1: Tỷ lệ pha 3-1-1. Độ nhớt 11-12 giây. Thời gian pha sử dụng 4-6 giờ.
+o	Bóng  PU HJFD 2108 4-1-4: Tỷ lệ pha 4-1-4. Độ nhớt 11-12 giây. Thời gian đóng gói sau 2-3 giờ (độ bóng 10%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU 0707 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 14-16 giây. Thời gian đóng gói sau 18-20 giờ (độ bóng 10%) hoặc 48 giờ (độ bóng 90%). Thời gian pha sử dụng 4 giờ.
+o	Lưu ý chung cho sơn bóng PU: Cần khuấy đều dung dịch sơn trước khi sử dụng. Yêu cầu giữa các lớp sơn lót phải đảm bảo thời gian khô C2 và chà nhám trước khi phun lớp sơn tiếp theo. Độ dày màng sơn ướt khuyến nghị thường là 100 μm mỗi lần phun.
+•	Các loại sơn bóng PU trắng (BÓNG  TRANG PU):
+o	Bóng  PU-HXXT trang 2-0.5-1: Tỷ lệ pha 2-0.5-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 20-22 giờ (độ bóng 5,10%), 24-30 giờ (độ bóng 20-50%), hoặc 52 giờ (độ bóng 90%). Thời gian pha sử dụng không được đề cập.
+o	Bóng  PU HXXT NA trang 2-0.5-1: Tỷ lệ pha 2-0.5-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 20-22 giờ (độ bóng 5,10%), 24-30 giờ (độ bóng 20-50%), hoặc 52 giờ (độ bóng 90%). Thời gian pha sử dụng không được đề cập.
+o	Bóng  PU OD 0408 Trang 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 11-12 giây. Thời gian đóng gói sau 14-16 giờ (độ bóng 5,10%), 18-22 giờ (độ bóng 20-40%), 24-30 giờ (độ bóng 50-70%), hoặc 52 giờ (độ bóng 90%). Thời gian pha sử dụng 4-6 giờ.
+o	Bóng  PU-SM2 trang 3-1-1: Tỷ lệ pha 3-1-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 24 giờ (độ bóng ~85%). Thời gian pha sử dụng không được đề cập.
+o	Bóng  PU SM 2802 Trang 3-1-1: Tỷ lệ pha 3-1-1. Độ nhớt 8"50-9"50 giây. Thời gian đóng gói không được đề cập. Thời gian pha sử dụng 3-4 giờ.
+o	Bóng  PU 0707 Trang 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 12-13 giây. Thời gian đóng gói sau 18-20 giờ (độ bóng 10%) hoặc 48 giờ (độ bóng 90%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU-0707 trang 4-1-2.5: Tỷ lệ pha 4-1-2.5. Độ nhớt 12-13 giây. Thời gian đóng gói sau 18-20 giờ (độ bóng 10%) hoặc 48 giờ (độ bóng 90%). Thời gian pha sử dụng không được đề cập.
+o	Bóng  PU 2007 TRT Trang 4-1-1: Tỷ lệ pha 4-1-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 30 giờ (độ bóng ~80-85%). Thời gian pha sử dụng 4 giờ.
+o	Bóng  PU 0805 Trang 4-1-2: Tỷ lệ pha 4-1-2. Độ nhớt 12-13 giây. Thời gian đóng gói sau 12-14 giờ (độ bóng 15%). Thời gian pha sử dụng 2 giờ (phun 4 paths).
+o	Bóng  PU2705 Trang NY 4-2-1: Tỷ lệ pha 4-2-1. Độ nhớt 11-12 giây. Thời gian đóng gói sau 20-24 giờ (độ bóng ≤30%) hoặc 48 giờ (độ bóng ~85%). Thời gian pha sử dụng không được đề cập.
+•	Sơn bóng NC Mod (Clear + Trắng) có gốc PU (BÓNG  NC MOD):
+o	Bóng  NC Mod 1106: Tỷ lệ pha không được đề cập. Độ nhớt 13-14 giây. Thời gian khô không dính mặt sau 12-16 giờ (độ bóng 50-70%), 8-12 giờ (độ bóng 20-40%), hoặc 6-8 giờ (độ bóng 5-10%). Thời gian sử dụng hỗn hợp đã pha cứng không được đề cập.
+o	Bóng NC Mod 10-1-10 Trang NY(5780%): Tỷ lệ pha không được đề cập. Độ nhớt 12-13 giây. Thời gian khô không dính mặt sau 24-30 giờ (độ bóng 80%), 12-16 giờ (độ bóng 20-40%), hoặc 6-8 giờ (độ bóng 5-10%). Thời gian sử dụng hỗn hợp đã pha cứng 4-6 giờ.
+Sơn lót hệ AC:
+•	Lót AC: 
+o	Tỷ lệ pha (Sơn - Cứng AC1AN - Dung môi AC): 10"50-11"50 giây độ nhớt Cup NK2.
+o	Thời gian khô chà nhám: 90-150 phút.
+o	Thời gian sử dụng hỗn hợp đã pha cứng: 4-6 giờ.
+•	Lót AC trắng: 
+o	Tỷ lệ pha (Sơn - Cứng AC1AN - Dung môi AC): 10-11 giây độ nhớt Cup NK2.
+o	Thời gian khô chà nhám: 120-180 phút.
+o	Tỷ lệ pha chi tiết hơn: 10-1-3.
+o	Thời gian sử dụng hỗn hợp đã pha cứng: 2 giờ.
+Sơn bóng hệ AC:
+•	Bóng AC: 
+o	Tỷ lệ pha (Sơn - Cứng AC1AN - Dung môi AC): 11-12 giây độ nhớt Cup NK2.
+o	Độ bóng (DB): ≤ 80% sau 8-12 giờ.
+o	Độ bóng (DB): 30-40% sau 12-16 giờ.
+o	Thời gian sử dụng hỗn hợp đã pha cứng: 4-6 giờ.
+•	Bóng AC IAN trắng: 
+o	Tỷ lệ pha (Sơn - Cứng IAN - Dung môi AC): 10-11 giây độ nhớt Cup NK2.
+o	Tỷ lệ pha chi tiết hơn: 10-1-3.
+o	Độ bóng (DB): ≤ 80% sau 32 giờ.
+o	Thời gian sử dụng hỗn hợp đã pha cứng: không được nêu rõ.
+Lưu ý chung khi pha sơn AC:
+•	Khi pha sơn và dung môi vào, cần khuấy tan đều rồi mới pha cứng.
+•	Dung dịch sơn sau khi pha cứng phải được đậy kín và khuấy đều trước khi sử dụng.
+•	Độ ẩm môi trường thích hợp khi sử dụng sơn AC là 50-75%.
+•	Yêu cầu giữa các lớp sơn lót phải đủ thời gian khô và chà nhám trước khi phun lớp sơn tiếp theo.
+Đây là những thông tin về sơn AC được cung cấp trong tài liệu của bạn. Nếu bạn có bất kỳ câu hỏi cụ thể nào khác về sơn AC, xin vui lòng cho tôi biết.
 
