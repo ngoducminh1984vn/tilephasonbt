@@ -174,3 +174,102 @@ Lưu ý chung khi pha sơn AC:
 •	Yêu cầu giữa các lớp sơn lót phải đủ thời gian khô và chà nhám trước khi phun lớp sơn tiếp theo.
 Đây là những thông tin về sơn AC được cung cấp trong tài liệu của bạn. Nếu bạn có bất kỳ câu hỏi cụ thể nào khác về sơn AC, xin vui lòng cho tôi biết.
 
+•	Lót BT CAT: Tỷ lệ pha là 10 lót - 2 phụ gia BT CAT – 7→10 dung môi BT CAT.
+•	BÓNG BT CAT 02: Tỷ lệ pha là 10 bóng BT CAT 02 – 3 phụ gia BT CAT - 7→10 dung môi BT CAT.
+•	Lót PU PC FD: Tỷ lệ pha là 2 lót PU PC FD - 1 cứng PU 0723– 2 dung môi PU lót.
+•	Dầu nhúng OBT 0124/2K: Tỷ lệ pha chế cho cả ba lần nhúng là 10 dầu nhúng OBT 0124 /2K / 5 Dung môi PU TXXT / 2 phụ gia SP3.
+•	Sơn PU HXXT Bóng tự nhiên (ngoài trời): Tỷ lệ pha là 2-0.7-1 (Sơn - Cứng PU HXXT - Dung môi PU TXXT).
+•	Sơn PU HXXT Bóng trắng (ngoài trời): Tỷ lệ pha là 2-0.5-1 (Sơn - Cứng PU HXXT - Dung môi PU TXXT).
+•	Sơn PU OD0405 Bóng tự nhiên (ngoài trời): Tỷ lệ pha là 2-0.5-1 (Sơn - Cứng PU 0707B - Dung môi PU TXXT 1406 TRT).
+•	Sơn PU OD0405 Bóng trắng (ngoài trời): Tỷ lệ pha là 2-0.5-1 (Sơn - Cứng PU 0707B - Dung môi PU TXXT 1406 TRT).
+•	Sơn PU OD 1107 Bóng tự nhiên (ngoài trời): Tỷ lệ pha là 3-1-1.5 (Sơn - Cứng PU 0707B - Dung môi PU TXXT).
+•	Sơn PU LÓT PU FD 0212 (SCANSIA) Lót tự nhiên (ngoài trời): Pha tỉ lệ 3-1 (Lót - cứng PU FDWS 1223).
+•	Sơn PU 0707 Lót tự nhiên (ngoài trời): Tỷ lệ pha là 4-1-2 (Sơn - Cứng PU 0707L - Dung môi PU TXXT 1406 TRT).
+•	Sơn PU LÓT PU FD 0212 TRẮNG (SCANSIA) Lót trắng (ngoài trời): Pha tỉ lệ 4-1 (Lót - cứng PU FDWS 1223).
+•	Sơn PU 0707 Trắng Lót trắng (ngoài trời): Tỷ lệ pha là 4-1-2 (Sơn - Cứng PU 0707L - Dung môi PU TXXT 1406 TRT).
+•	Sơn NC T2012 Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-2 (Sơn - Dung môi NC02).
+•	Sơn NC T2012 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-2 (Sơn - Dung môi NC02).
+•	Sơn NC 1212 Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC1212).
+•	Sơn NC 1212 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC1212).
+•	Sơn NC HB Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	Sơn NC HB Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	BÓNG NC HB ABR (các loại bóng) (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC HB).
+•	Sơn NC MOD 1106 Lót tự nhiên (trong nhà): Tỷ lệ pha là 10-1-10 (Sơn - Cứng NC MOD 1106 lót - Dung môi NC MOD).
+•	Sơn NC MOD 1106 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 10-1-10 (Sơn - Cứng NC MOD 1106 bóng - Dung môi NC MOD).
+•	Sơn NC NA Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCNA).
+•	Sơn NC NA Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCNA).
+•	Sơn NC NA Lót trắng (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCNA).
+•	Sơn NC NA Bóng trắng (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCNA).
+•	Sơn NC NY Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC02).
+•	Sơn NC NY Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	Sơn NC 2407 TRẮNG Lót trắng (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC02).
+•	Sơn NC LÓT NC 2407 KP TRẮNG Lót trắng (trong nhà): Tỷ lệ pha là 1-0.5 (Sơn - Dung môi NC02).
+•	Sơn NC 2307 TRẮNG Lót trắng (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NC02).
+•	Sơn NC NY Trắng Lót trắng (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC02).
+•	BÓNG NC NY TRẮNG (KHÁNG TRẦY) 50% Bóng trắng (trong nhà): Pha với dung môi NCHB. Tỷ lệ không được nêu rõ.
+•	Sơn NC NY Trắng Bóng trắng (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	Sơn NC NY Trắng Lót trắng (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	Sơn NC PAK 2512 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1.5 (Sơn - Dung môi NCHB).
+•	Sơn NC PC23 Lót tự nhiên (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC 02/23).
+•	Sơn NC PC23 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-1 (Sơn - Dung môi NC 02/23).
+•	Sơn BUTYRATE BUTYRATE ANTIUV 20% Bóng tự nhiên (trong nhà): Tỷ lệ pha là 1-0.5 (Sơn - Dung môi BC 140717).
+•	Sơn BUTYRATE BUTYRATE ANTIUV 20% TRẮNG Bóng trắng (trong nhà): Tỷ lệ pha là 1-0.5 (Sơn - Dung môi BC 140717).
+•	Bóng PU 0805 Bóng tự nhiên (trong nhà): Có nhiều tỷ lệ pha khác nhau tùy thuộc vào loại cứng và dung môi sử dụng. 
+o	3 sơn – 1 cứng PU HXXT – Dung môi PU TXXT
+o	4 sơn -1 cứng PU FD TOP 1406
+o	3 Sơn -1 Cứng PU TXXT
+o	4 sơn -1 cứng PU HXXT
+o	4 sơn – 1 cứng PU 0707B
+•	Bóng PU 0805 trắng Bóng trắng (trong nhà): Có nhiều tỷ lệ pha khác nhau tùy thuộc vào loại cứng và dung môi sử dụng. 
+o	4 sơn -1 cứng PU HXXT
+o	4 sơn -1 cứng PU 0707B
+o	4 sơn – 1 cứng PU HXXT
+o	5 sơn -1 cứng PU HXXT
+o	4 sơn – 1 cứng PU 0707B
+•	Bóng pu BTXX Bóng tự nhiên (trong nhà): Tỷ lệ pha là 2-1-2 (Sơn - Cứng Pu - Dung môi Pu Bóng).
+•	Bóng PU ID 0805 ABR Bóng tự nhiên (trong nhà): Tỷ lệ pha là 3-1-1.5 (Sơn - Cứng PU HXXT - Dung môi PU TXXT).
+•	Bóng PU ID 0805 Bóng tự nhiên (trong nhà): 3 Sơn -1 Cứng PU TXXT, 4 sơn – 1 cứng PU 0707B.
+•	Sơn PU HG Bóng tự nhiên (trong nhà): Tỷ lệ pha là 2-1-1.5 (Sơn - Cứng PU 0707B - Dung môi PU TXXT).
+•	Sơn PU HG Bóng trắng (trong nhà): Tỷ lệ pha là 2-1-1.5 (Sơn - Cứng PU 0707B - Dung môi PU TXXT).
+•	Sơn PU Lót PU PC FD (trong nhà): Tỷ lệ pha là 2-1-1 (Lót - Cứng PU 0723 - Dung môi PU Lót).
+•	Bóng PU-SM2 (Bóng sáng: 85%) Bóng tự nhiên (trong nhà): Tỷ lệ là 3-1-1 (Sơn - Cứng PU HXXT - Dung môi PU-SM). Ngoại lệ cho quy trình đánh bóng: Cứng PU SM 2906 - Dung môi PU-SM.
+•	Bóng PU SM2 Trắng(Bóng sáng 85%) Bóng trắng (trong nhà): Tỷ lệ là 3-1-1 (Sơn - Cứng PU HXXT - Dung môi PU-SM). Ngoại lệ cho quy trình đánh bóng: Cứng PU SM 2906 - Dung môi PU-SM.
+•	Bóng PUSM 0506( độ bóng 5 đến 85%) Bóng tự nhiên (trong nhà): Tỷ lệ là 5-1 (Sơn - Cứng PU HXXT).
+•	Bóng PU SM 3001(Bóng sáng: 90%) Bóng tự nhiên (trong nhà): Tỷ lệ là 2-1-1.5 (Sơn - Cứng PU SM 3001B - Dung môi PU SM 3001).
+•	Bóng PU SM2802 Trắng Bóng trắng (trong nhà): Tỷ lệ là 4-1-2.5 (Sơn - Cứng PU 2802B - Dung môi PU TXXT 1406).
+•	SM2 Bóng tự nhiên (trong nhà): Tỷ lệ pha là 3-1-1 (Sơn - Cứng PU HXXT - Dung môi PU SM).
+•	Dầu bảo quản OBT 01: Dùng trực tiếp không pha. Nếu đặc có thể pha thêm 5-10% dung môi CRF.
+•	Dầu bảo quản OBT 01/24 M: Lau trực tiếp không pha.
+•	Dầu bảo quản DẦU OBT 04/24: Nhúng, lau trực tiếp không pha.
+•	Dầu bảo quản OBT01N 2509/17: Dùng trực tiếp không pha. Nếu đặc có thể pha thêm 5-10% dung môi CRF.
+•	Nhựa stain BT 24: Pha vào hỗn hợp màu từ 10 đến 20%.
+•	Stain SP3010: Pha với 20% phụ gia SP2.
+•	Lót AC tự nhiên: Tỷ lệ pha là 10-1-3 (Sơn - Cứng AC 1AN - Dung môi AC).
+•	Bóng AC tự nhiên: Tỷ lệ pha là 10-0.5-1 (Sơn - Cứng AC 1AN - Dung môi AC).
+•	Lót AC trắng: Tỷ lệ pha là 10-1-3 (Sơn - Cứng AC 1AN - Dung môi AC).
+•	Bóng AC trắng: Tỷ lệ pha là 10-1-3 (Sơn - Cứng AC 1AN - Dung môi AC).
+•	Tannin Block Primer TBS 251223 New: Tỷ lệ pha là 1 Primer – 4 phụ gia ngăn dầu Primer TBS 251223 New.
+•	Sơn CAT Sơn lót: Tỷ lệ pha là 10-2-(7==>10) (Sơn - Phụ gia BT CAT - Dung môi BT CAT).
+•	Sơn CAT Sơn bóng: Tỷ lệ pha là 10-3-(7==>10) (Sơn - Phụ gia BT CAT - Dung môi BT CAT).
+•	Sơn bóng tự nhiên Bóng BT 2K 201120H (trong nhà): Pha 10% cứng XP25H.
+•	Tannin block TB – 2211H: Pha 3% PGTB.
+•	Tannin block TBW – 2211H: Pha 3% PGTB.
+•	Glaze Trắng BT – 2904H: Pha 5-10% REDUCER – 04H.
+•	Phụ Gia TB: Sử dụng với lượng 1 – 2%.
+•	Phụ Gia E05 (Đạt Ikea): Sử dụng với lượng 1 – 2%.
+•	Reducer REDUCER – 04H: Pha từ 3-10%, đặc biệt không quá 20%.
+•	Diluent Diluent BT – 08H: Pha 5-30%.
+•	Reducer Reducer – 09H: Pha không giới hạn.
+•	Reducer Retander BT – 01H: Pha từ 3 đến 7 %.
+Từ "sơn mới 0325.pdf":
+•	SƠN PHỦ PU-HXXT: 
+o	Bóng PU-HXXT: Tỷ lệ pha là 2 (Sơn) - 0.7 (Cứng PU-HXXT) - 1 (Dung môi PU-TXXT).
+o	Bóng PU-HXXT trắng: Tỷ lệ pha là 2 (Sơn) - 0.5 (Cứng PU-HXXT) - 1 (Dung môi PU-TXXT).
+•	SƠN NC HB ABR: Tỷ lệ pha là 1 (Sơn NC HB ABR) - 1 (Dung môi NC HB).
+•	SƠN NC NY 1807: Tỷ lệ pha là 1 (Sơn NC NY 1807) - 1 (Dung môi NC 02).
+•	SƠN PRECAT BT 0124: Tỷ lệ pha là 1 (Sơn PRECAT BT 0124) - 1 (Dung môi BT CAT).
+•	SƠN PU OD 0405: 
+o	Bóng PU OD 0405: Tỷ lệ pha là 3 (Sơn) - 1 (Cứng PU TOD 0405 hoặc Cứng PU 0707B) - 1 (Dung môi PU-TXXT).
+o	Bóng PU OD 0405 trắng: Tỷ lệ pha là 4 (Sơn) - 1 (Cứng PU TOD 0405 hoặc Cứng PU 0707B) - 1 (Dung môi PU-TXXT).
+Lưu ý: Đối với các sản phẩm không yêu cầu tỉ lệ pha cụ thể, chúng thường được sử dụng trực tiếp. Tỉ lệ pha của các màu nhuộm (Dye Stain, Stain, Pigment) được liệt kê chi tiết trong bảng màu ở nguồn "San pham HKBT 0824.pdf".
+
