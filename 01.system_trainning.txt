@@ -271,5 +271,90 @@ o	Bóng PU-HXXT trắng: Tỷ lệ pha là 2 (Sơn) - 0.5 (Cứng PU-HXXT) - 1 (
 •	SƠN PU OD 0405: 
 o	Bóng PU OD 0405: Tỷ lệ pha là 3 (Sơn) - 1 (Cứng PU TOD 0405 hoặc Cứng PU 0707B) - 1 (Dung môi PU-TXXT).
 o	Bóng PU OD 0405 trắng: Tỷ lệ pha là 4 (Sơn) - 1 (Cứng PU TOD 0405 hoặc Cứng PU 0707B) - 1 (Dung môi PU-TXXT).
-Lưu ý: Đối với các sản phẩm không yêu cầu tỉ lệ pha cụ thể, chúng thường được sử dụng trực tiếp. Tỉ lệ pha của các màu nhuộm (Dye Stain, Stain, Pigment) được liệt kê chi tiết trong bảng màu ở nguồn "San pham HKBT 0824.pdf".
 
+---
+
+• **NC PC 23 Primer:**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1  
+  o **Solvent Used:** NC 02/23  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 16-20 seconds  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 5-15 minutes  
+     **C2: Sandable (#320):** 60-120 minutes  
+  o **Wet Film Thickness:** 75-100 µm  
+  o **Note:** Easy sanding with fine powder, light sanding without sticking to sandpaper, heavy sanding with minimal fine powder adhesion (≤ 10%)  
+
+• **NC PC 23 Gloss:**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1  
+  o **Solvent Used:** NC 02/23  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 16-20 seconds  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 3-12 minutes  
+     **C2: Fingerprint-Free:** 15-60 minutes (depending on gloss level)  
+     **Packaging (2kg/4cm² pressure with foam liner):** 3-16 hours (depending on gloss level)  
+  o **Wet Film Thickness:** 75-100 µm  
+  o **Note:** Drying time depends on gloss level of the paint film; Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+• **NC NY ABR Gloss:**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1  
+  o **Solvent Used:** NC HB  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 9-13 seconds  
+  o **Gloss Type:** 5-10%  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 3-12 minutes  
+     **C2: Fingerprint-Free:** 15-30 minutes  
+     **Packaging (2kg/4cm² pressure with foam liner):** 4-8 hours  
+  o **Wet Film Thickness:** 100-125 µm  
+  o **Note:** Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+• **NCHB ABR Gloss:**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1  
+  o **Solvent Used:** NC HB  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 11-15 seconds  
+  o **Gloss Type:** 5-35%  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 3-12 minutes  
+     **C2: Fingerprint-Free:** 15-60 minutes  
+     **Packaging (2kg/4cm² pressure with foam liner):** 4-12 hours  
+  o **Wet Film Thickness:** 100-125 µm  
+  o **Note:** Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+• **PRECAT BT 0124 Gloss:**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1  
+  o **Solvent Used:** BT CAT  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 11-15 seconds  
+  o **Gloss Type:** 10-40%  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 3-12 minutes  
+     **C2: Fingerprint-Free:** 15-30 minutes  
+     **Packaging (2kg/4cm² pressure with foam liner):** 4-8 hours  
+  o **Wet Film Thickness:** 100-125 µm  
+  o **Note:** Drying time depends on gloss level of the paint film; Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+• **NC NY White Gloss (Scratch-Resistant):**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1.5  
+  o **Solvent Used:** NC HB  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 10-14 seconds  
+  o **Gloss Type:** 10-50%  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 3-12 minutes  
+     **C2: Fingerprint-Free:** 15-60 minutes  
+     **Packaging (2kg/4cm² pressure with foam liner):** 4-18 hours  
+  o **Wet Film Thickness:** 100-125 µm  
+  o **Note:** Drying time depends on gloss level of the paint film; Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+• **NC NY White Gloss (H. Hải):**  
+  o **Mixing Ratio (Paint-Solvent):** 1:1.5  
+  o **Solvent Used:** NC HB  
+  o **Viscosity (Sample Temp: 30±2°C) NK2 Cup, seconds:** 10-14 seconds  
+  o **Gloss Type:** 10-60%  
+  o **Drying Time (Temp: 30-35°C):**  
+     **C1: Surface Dry:** 5-15 minutes  
+     **C2: Fingerprint-Free:** 15-75 minutes  
+     **Packaging (2kg/4cm² pressure with foam liner):** 4-24 hours  
+  o **Wet Film Thickness:** 100-125 µm  
+  o **Note:** Drying time depends on gloss level of the paint film; Apply over process: Primer Base (1 coat, 2 coats) dried to C2, sanded → Gloss Spray  
+
+--- 
+
+This translation uses industry-specific terms like "wet film thickness," "surface dry," "fingerprint-free," and "sandable" to align with professional paint and coating terminology. Units such as "µm" (micrometers) replace "mm" where appropriate, as this is standard in the industry for film thickness.
